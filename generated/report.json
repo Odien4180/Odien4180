@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T12:54:53.1903655+00:00",
-  "periodStart": "2026-07-26T12:54:48.267392+00:00",
-  "periodEnd": "2026-07-27T12:54:48.267392+00:00",
+  "generatedAt": "2026-07-27T14:10:56.4081794+00:00",
+  "periodStart": "2026-07-26T14:10:51.7539681+00:00",
+  "periodEnd": "2026-07-27T14:10:51.7539681+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 17,
+      "commits": 20,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -15,6 +15,13 @@
       "reviews": 0,
       "releases": 0
     },
+    "narrative": {
+      "headline": "2개 공개 저장소에 20개의 커밋을 반영하며 개발을 이어갔습니다.",
+      "highlights": [
+        "Odien4180/Github-activity-reporter (C#): 커밋 17건을 진행했습니다.",
+        "Odien4180/Odien4180: 커밋 3건을 진행했습니다."
+      ]
+    },
     "repositories": [
       {
         "name": "Odien4180/Github-activity-reporter",
@@ -22,9 +29,9 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "커밋 15건을 반영했습니다.",
+        "summary": "커밋 17건을 반영했습니다.",
         "metrics": {
-          "commits": 15,
+          "commits": 17,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
@@ -39,9 +46,9 @@
         "name": "Odien4180/Odien4180",
         "url": "https://github.com/Odien4180/Odien4180",
         "topics": [],
-        "summary": "커밋 2건을 반영했습니다.",
+        "summary": "커밋 3건을 반영했습니다.",
         "metrics": {
-          "commits": 2,
+          "commits": 3,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,

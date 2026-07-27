@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 900 300">
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 900 330">
   <title id="title">Development Pulse</title>
-  <desc id="desc">Public and private development activity metrics.</desc>
+  <desc id="desc">2개 공개 저장소에 20개의 커밋을 반영하며 개발을 이어갔습니다.</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7c3aed" />
@@ -19,6 +19,7 @@
     .label { font-size: 12px; font-weight: 650; fill: #64748b; }
     .status { font-size: 10px; font-weight: 700; fill: #047857; letter-spacing: .8px; }
     .status-bg { fill: #d1fae5; }
+    .narrative { font-size: 13px; font-weight: 600; fill: #334155; }
     @media (prefers-color-scheme: dark) {
       .bg { fill: #0d1117; }
       .card { fill: #161b22; stroke: #30363d; }
@@ -27,9 +28,10 @@
       .eyebrow { fill: #a78bfa; }
       .status-bg { fill: #064e3b; }
       .status { fill: #6ee7b7; }
+      .narrative { fill: #cbd5e1; }
     }
   </style>
-  <rect class="bg" x="0" y="0" width="900" height="300" rx="18" />
+  <rect class="bg" x="0" y="0" width="900" height="330" rx="18" />
   <rect x="0" y="0" width="900" height="5" rx="2.5" fill="url(#accent)" />
   <text class="eyebrow" x="30" y="34">GITHUB ACTIVITY</text>
   <text class="title" x="30" y="64">Development Pulse</text>
@@ -38,7 +40,7 @@
   <text class="status" x="828" y="47" text-anchor="middle">ACTIVE</text>
   <rect class="card" x="30" y="112" width="194" height="118" rx="14" />
   <text class="label" x="48" y="143">PUBLIC COMMITS</text>
-  <text class="number" x="48" y="190">17</text>
+  <text class="number" x="48" y="190">20</text>
   <rect x="48" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
   <rect class="card" x="246" y="112" width="194" height="118" rx="14" />
   <text class="label" x="264" y="143">PRIVATE COMMITS</text>
@@ -52,6 +54,7 @@
   <text class="label" x="696" y="143">MERGED PRS</text>
   <text class="number" x="696" y="190">0</text>
   <rect x="696" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
-  <text class="sub" x="30" y="270">Updated · 2026-07-27 21:54 KST</text>
-  <text class="sub" x="870" y="270" text-anchor="end">github-activity-reporter</text>
+  <text class="narrative" x="30" y="263">2개 공개 저장소에 20개의 커밋을 반영하며 개발을 이어갔습니다.</text>
+  <text class="sub" x="30" y="302">Updated · 2026-07-27 23:10 KST</text>
+  <text class="sub" x="870" y="302" text-anchor="end">github-activity-reporter</text>
 </svg>
