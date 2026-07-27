@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T14:20:53.2962703+00:00",
-  "periodStart": "2026-07-20T14:20:43.8177298+00:00",
-  "periodEnd": "2026-07-27T14:20:43.8177298+00:00",
+  "generatedAt": "2026-07-27T14:25:26.5862805+00:00",
+  "periodStart": "2026-07-20T14:25:13.6424648+00:00",
+  "periodEnd": "2026-07-27T14:25:13.6424648+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 23,
+      "commits": 24,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,11 +16,10 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "Odien4180/Github-activity-reporter 리포터 개발 및 유지보수 집중",
+      "headline": "Odien4180/Github-activity-reporter의 개발과 Odien4180/Odien4180의 유지 관리에 집중",
       "highlights": [
-        "리포터 프로젝트의 기능 추가 및 개선에 다수 커밋이 이루어짐",
-        "코드 품질과 안정성 유지에 집중된 작업 확인됨",
-        "개발 완료 후 보완 및 정리 단계까지 진행됨"
+        "Github-activity-reporter에서는 집중적으로 커밋이 이루어져 기능 개발 및 코드 개선이 지속됨",
+        "Odien4180/Odien4180에서는 간헐적인 커밋을 통해 저장소 유지 및 보완이 진행됨"
       ]
     },
     "repositories": [
@@ -30,7 +29,7 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "주요 기능 개발과 수정에 집중하며 리포터 기능을 안정적으로 구현함.",
+        "summary": "Github-activity-reporter에서 활발한 커밋을 통해 기능 개발과 코드 개선 중심의 작업이 나타남.",
         "metrics": {
           "commits": 18,
           "pullRequestsOpened": 0,
@@ -48,9 +47,9 @@
         "url": "https://github.com/Odien4180/Odien4180",
         "language": "HTML",
         "topics": [],
-        "summary": "프로필 관련 코드의 간단한 유지보수 작업이 이루어짐.",
+        "summary": "Odien4180/Odien4180에서는 주로 저장소 유지 관리를 위한 소량의 커밋이 확인됨.",
         "metrics": {
-          "commits": 5,
+          "commits": 6,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-07-20 ~ 2026-07-27 · 업데이트 2026-07-27 23:20 KST
+> 보고 기간: 2026-07-20 ~ 2026-07-27 · 업데이트 2026-07-27 23:25 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -27,23 +27,22 @@ Here are some ideas to get you started:
 
 | 공개 저장소 | 공개 커밋 | 비공개 저장소 | 비공개 커밋 |
 | :---: | :---: | :---: | :---: |
-| **2** | **23** | **0** | **0** |
+| **2** | **24** | **0** | **0** |
 
 ### 공개 프로젝트
 
 #### 이번 활동 요약
 
-> Odien4180/Github-activity-reporter 리포터 개발 및 유지보수 집중
+> Odien4180/Github-activity-reporter의 개발과 Odien4180/Odien4180의 유지 관리에 집중
 
-- 리포터 프로젝트의 기능 추가 및 개선에 다수 커밋이 이루어짐
-- 코드 품질과 안정성 유지에 집중된 작업 확인됨
-- 개발 완료 후 보완 및 정리 단계까지 진행됨
+- Github-activity-reporter에서는 집중적으로 커밋이 이루어져 기능 개발 및 코드 개선이 지속됨
+- Odien4180/Odien4180에서는 간헐적인 커밋을 통해 저장소 유지 및 보완이 진행됨
 
 #### [Odien4180/Github-activity-reporter](https://github.com/Odien4180/Github-activity-reporter)
 
 > 사용자 깃 활동 리포팅 환경 자동 구성
 
-주요 기능 개발과 수정에 집중하며 리포터 기능을 안정적으로 구현함.
+Github-activity-reporter에서 활발한 커밋을 통해 기능 개발과 코드 개선 중심의 작업이 나타남.
 
 **활동:** 커밋 18건
 
@@ -51,9 +50,9 @@ Here are some ideas to get you started:
 
 #### [Odien4180/Odien4180](https://github.com/Odien4180/Odien4180)
 
-프로필 관련 코드의 간단한 유지보수 작업이 이루어짐.
+Odien4180/Odien4180에서는 주로 저장소 유지 관리를 위한 소량의 커밋이 확인됨.
 
-**활동:** 커밋 5건
+**활동:** 커밋 6건
 
 <sub>주요 언어: HTML</sub>
 
