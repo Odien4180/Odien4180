@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-07-27T14:17:05.1801978+00:00",
+  "periodStart": "2026-07-20T14:16:55.5241226+00:00",
+  "periodEnd": "2026-07-27T14:16:55.5241226+00:00",
+  "user": "Odien4180",
+  "publicActivity": {
+    "activeRepositoryCount": 2,
+    "metrics": {
+      "CommitCount": 21,
+      "PullRequestOpenedCount": 0,
+      "PullRequestMergedCount": 0,
+      "PullRequestClosedCount": 0,
+      "IssueOpenedCount": 0,
+      "IssueClosedCount": 0,
+      "ReviewSubmittedCount": 0,
+      "ReleasePublishedCount": 0,
+      "TotalCount": 21
+    },
+    "narrative": {
+      "Headline": "Github-activity-reporter\uC5D0\uC11C \uAE30\uB2A5 \uAC1C\uBC1C\uACFC \uC790\uB3D9\uD654\uC5D0 \uC9D1\uC911",
+      "Highlights": [
+        "Github-activity-reporter\uB294 \uB2E4\uC218\uC758 \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uC8FC\uC694 \uAE30\uB2A5\uC774 \uAC1C\uBC1C\uB418\uACE0 \uC790\uB3D9\uD654 \uAD00\uB828 \uC791\uC5C5\uC774 \uC774\uB8E8\uC5B4\uC84C\uC74C.",
+        "Odien4180 \uB9AC\uD3EC\uC9C0\uD1A0\uB9AC\uC5D0\uC11C\uB294 \uC8FC\uAE30\uC801 \uCEE4\uBC0B\uC73C\uB85C \uC720\uC9C0\uBCF4\uC218 \uBC0F \uAD6C\uC131\uC774 \uC9C4\uD589\uB428."
+      ]
+    }
+  },
+  "privateActivity": {
+    "ActiveRepositoryCount": 0,
+    "CommitCount": 0,
+    "PullRequestOpenedCount": 0,
+    "PullRequestMergedCount": 0,
+    "PullRequestClosedCount": 0,
+    "IssueOpenedCount": 0,
+    "IssueClosedCount": 0,
+    "ReviewSubmittedCount": 0,
+    "ReleasePublishedCount": 0,
+    "ActiveDayCount": 0,
+    "TotalEventCount": 0,
+    "HasActivity": false
+  },
+  "timeZone": "Asia/Seoul"
+}
