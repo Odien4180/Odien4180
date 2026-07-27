@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T14:25:26.5862805+00:00",
-  "periodStart": "2026-07-20T14:25:13.6424648+00:00",
-  "periodEnd": "2026-07-27T14:25:13.6424648+00:00",
+  "generatedAt": "2026-07-27T14:43:14.7875611+00:00",
+  "periodStart": "2026-07-26T14:42:58.905468+00:00",
+  "periodEnd": "2026-07-27T14:42:58.905468+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 2,
     "metrics": {
-      "CommitCount": 24,
+      "CommitCount": 27,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,13 +14,13 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 24
+      "TotalCount": 27
     },
     "narrative": {
-      "Headline": "Odien4180/Github-activity-reporter\uC758 \uAC1C\uBC1C\uACFC Odien4180/Odien4180\uC758 \uC720\uC9C0 \uAD00\uB9AC\uC5D0 \uC9D1\uC911",
+      "Headline": "Odien4180/Github-activity-reporter\uC5D0 \uC9D1\uC911\uB41C \uB300\uADDC\uBAA8 \uCEE4\uBC0B \uBC30\uD3EC, Odien4180/Odien4180\uC5D0\uB294 \uAC04\uD5D0\uC801 \uC720\uC9C0\uBCF4\uC218 \uC911\uC2EC \uD65C\uB3D9",
       "Highlights": [
-        "Github-activity-reporter\uC5D0\uC11C\uB294 \uC9D1\uC911\uC801\uC73C\uB85C \uCEE4\uBC0B\uC774 \uC774\uB8E8\uC5B4\uC838 \uAE30\uB2A5 \uAC1C\uBC1C \uBC0F \uCF54\uB4DC \uAC1C\uC120\uC774 \uC9C0\uC18D\uB428",
-        "Odien4180/Odien4180\uC5D0\uC11C\uB294 \uAC04\uD5D0\uC801\uC778 \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uC800\uC7A5\uC18C \uC720\uC9C0 \uBC0F \uBCF4\uC644\uC774 \uC9C4\uD589\uB428"
+        "Github-activity-reporter\uC5D0\uC11C \uB2E4\uC218\uC758 \uCEE4\uBC0B\uC774 \uC9D1\uC911\uC801\uC73C\uB85C \uC774\uB8E8\uC5B4\uC84C\uC73C\uBA70, \uBC30\uD3EC\uC640 \uAE30\uB2A5 \uCD94\uAC00\uC5D0 \uC5F0\uC18D\uC801\uC778 \uC791\uC5C5 \uD754\uC801\uC774 \uD655\uC778\uB428",
+        "Odien4180/Odien4180\uC5D0\uC11C\uB294 \uBE44\uAD50\uC801 \uC801\uC740 \uCEE4\uBC0B\uC774 \uC0B0\uBC1C\uC801\uC73C\uB85C \uBC1C\uC0DD\uD558\uC5EC \uAC1C\uC120\uC774\uB098 \uC720\uC9C0\uBCF4\uC218 \uD65C\uB3D9\uC5D0 \uCE58\uC911\uB428"
       ]
     }
   },
