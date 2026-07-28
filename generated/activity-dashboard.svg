@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 900 330">
   <title id="title">Development Pulse</title>
-  <desc id="desc">7월 말 신규 기능 구현 및 자동화 테스트 집중</desc>
+  <desc id="desc">Odien4180/Github-activity-reporter의 기능 개발 집중, Odien4180/Odien4180에서는 정비 작업 및 구조 변경 위주</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7c3aed" />
@@ -40,7 +40,7 @@
   <text class="status" x="828" y="47" text-anchor="middle">ACTIVE</text>
   <rect class="card" x="30" y="112" width="194" height="118" rx="14" />
   <text class="label" x="48" y="143">PUBLIC COMMITS</text>
-  <text class="number" x="48" y="190">30</text>
+  <text class="number" x="48" y="190">31</text>
   <rect x="48" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
   <rect class="card" x="246" y="112" width="194" height="118" rx="14" />
   <text class="label" x="264" y="143">PRIVATE COMMITS</text>
@@ -54,7 +54,7 @@
   <text class="label" x="696" y="143">MERGED PRS</text>
   <text class="number" x="696" y="190">0</text>
   <rect x="696" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
-  <text class="narrative" x="30" y="263">7월 말 신규 기능 구현 및 자동화 테스트 집중</text>
-  <text class="sub" x="30" y="302">Updated · 2026-07-28 10:08 KST</text>
+  <text class="narrative" x="30" y="263">Odien4180/Github-activity-reporter의 기능 개발 집중, Odien4180/Odien4180에서는 정비 작업 및 구조 변경 위주</text>
+  <text class="sub" x="30" y="302">Updated · 2026-07-28 10:24 KST</text>
   <text class="sub" x="870" y="302" text-anchor="end">github-activity-reporter</text>
 </svg>
