@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-28T00:03:49.4412713+00:00",
-  "periodStart": "2026-07-27T00:03:38.8834774+00:00",
-  "periodEnd": "2026-07-28T00:03:38.8834774+00:00",
+  "generatedAt": "2026-07-28T00:45:13.693044+00:00",
+  "periodStart": "2026-07-27T00:45:01.6725494+00:00",
+  "periodEnd": "2026-07-28T00:45:01.6725494+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 2,
     "metrics": {
-      "CommitCount": 28,
+      "CommitCount": 29,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,13 +14,13 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 28
+      "TotalCount": 29
     },
     "narrative": {
-      "Headline": "Github-activity-reporter \uD504\uB85C\uC81D\uD2B8 \uAC1C\uBC1C \uC9D1\uC911, Odien4180 \uD504\uB85C\uD544 \uAC1C\uC120 \uD65C\uB3D9 \uC9C4\uD589",
+      "Headline": "Odien4180/Github-activity-reporter\uC758 \uAE30\uB2A5 \uAD6C\uD604 \uBC0F \uC720\uC9C0\uBCF4\uC218 \uC9D1\uC911, Odien4180/Odien4180\uC758 \uC815\uAE30\uC801\uC778 \uAC1C\uC778 \uB9AC\uD3EC\uC9C0\uD1A0\uB9AC \uAD00\uB9AC",
       "Highlights": [
-        "Github-activity-reporter\uC5D0\uC11C \uB192\uC740 \uBE48\uB3C4\uC758 \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uAE30\uB2A5 \uAC1C\uBC1C \uBC0F \uBC18\uBCF5\uC801 \uC218\uC815 \uC791\uC5C5\uC774 \uC774\uB8E8\uC5B4\uC9D0",
-        "Odien4180 \uC800\uC7A5\uC18C\uC5D0\uC11C\uB294 \uC5EC\uB7EC \uCEE4\uBC0B\uC73C\uB85C \uD504\uB85C\uD544 \uAD00\uB828 \uCF54\uB4DC\uB098 \uC124\uC815\uC758 \uC720\uC9C0\uBCF4\uC218, \uAC1C\uC120\uC744 \uC218\uD589"
+        "Github-activity-reporter\uC5D0\uC11C\uB294 \uBC18\uBCF5\uC801\uC774\uACE0 \uC9D1\uC911\uC801\uC778 \uCEE4\uBC0B \uD65C\uB3D9\uC744 \uD1B5\uD574 \uAE30\uB2A5 \uAC1C\uBC1C\uACFC \uCF54\uB4DC \uC720\uC9C0\uBCF4\uC218\uAC00 \uC774\uB8E8\uC5B4\uC9D0",
+        "Odien4180/Odien4180\uC5D0\uC11C\uB294 \uBE44\uAD50\uC801 \uC801\uC740 \uCEE4\uBC0B\uC73C\uB85C \uAC1C\uC778 \uC800\uC7A5\uC18C\uC758 \uCF58\uD150\uCE20\uC640 \uC124\uC815\uC744 \uC5C5\uB370\uC774\uD2B8"
       ]
     }
   },
