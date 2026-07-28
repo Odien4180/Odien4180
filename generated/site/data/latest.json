@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T14:43:14.7875611+00:00",
-  "periodStart": "2026-07-26T14:42:58.905468+00:00",
-  "periodEnd": "2026-07-27T14:42:58.905468+00:00",
+  "generatedAt": "2026-07-28T00:03:49.4412713+00:00",
+  "periodStart": "2026-07-27T00:03:38.8834774+00:00",
+  "periodEnd": "2026-07-28T00:03:38.8834774+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 2,
     "metrics": {
-      "CommitCount": 27,
+      "CommitCount": 28,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,13 +14,13 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 27
+      "TotalCount": 28
     },
     "narrative": {
-      "Headline": "Odien4180/Github-activity-reporter\uC5D0 \uC9D1\uC911\uB41C \uB300\uADDC\uBAA8 \uCEE4\uBC0B \uBC30\uD3EC, Odien4180/Odien4180\uC5D0\uB294 \uAC04\uD5D0\uC801 \uC720\uC9C0\uBCF4\uC218 \uC911\uC2EC \uD65C\uB3D9",
+      "Headline": "Github-activity-reporter \uD504\uB85C\uC81D\uD2B8 \uAC1C\uBC1C \uC9D1\uC911, Odien4180 \uD504\uB85C\uD544 \uAC1C\uC120 \uD65C\uB3D9 \uC9C4\uD589",
       "Highlights": [
-        "Github-activity-reporter\uC5D0\uC11C \uB2E4\uC218\uC758 \uCEE4\uBC0B\uC774 \uC9D1\uC911\uC801\uC73C\uB85C \uC774\uB8E8\uC5B4\uC84C\uC73C\uBA70, \uBC30\uD3EC\uC640 \uAE30\uB2A5 \uCD94\uAC00\uC5D0 \uC5F0\uC18D\uC801\uC778 \uC791\uC5C5 \uD754\uC801\uC774 \uD655\uC778\uB428",
-        "Odien4180/Odien4180\uC5D0\uC11C\uB294 \uBE44\uAD50\uC801 \uC801\uC740 \uCEE4\uBC0B\uC774 \uC0B0\uBC1C\uC801\uC73C\uB85C \uBC1C\uC0DD\uD558\uC5EC \uAC1C\uC120\uC774\uB098 \uC720\uC9C0\uBCF4\uC218 \uD65C\uB3D9\uC5D0 \uCE58\uC911\uB428"
+        "Github-activity-reporter\uC5D0\uC11C \uB192\uC740 \uBE48\uB3C4\uC758 \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uAE30\uB2A5 \uAC1C\uBC1C \uBC0F \uBC18\uBCF5\uC801 \uC218\uC815 \uC791\uC5C5\uC774 \uC774\uB8E8\uC5B4\uC9D0",
+        "Odien4180 \uC800\uC7A5\uC18C\uC5D0\uC11C\uB294 \uC5EC\uB7EC \uCEE4\uBC0B\uC73C\uB85C \uD504\uB85C\uD544 \uAD00\uB828 \uCF54\uB4DC\uB098 \uC124\uC815\uC758 \uC720\uC9C0\uBCF4\uC218, \uAC1C\uC120\uC744 \uC218\uD589"
       ]
     }
   },
