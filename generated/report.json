@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T00:45:13.693044+00:00",
-  "periodStart": "2026-07-27T00:45:01.6725494+00:00",
-  "periodEnd": "2026-07-28T00:45:01.6725494+00:00",
+  "generatedAt": "2026-07-28T01:08:18.6995047+00:00",
+  "periodStart": "2026-07-27T01:08:05.4615824+00:00",
+  "periodEnd": "2026-07-28T01:08:05.4615824+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 29,
+      "commits": 30,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,10 +16,11 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "Odien4180/Github-activity-reporter의 기능 구현 및 유지보수 집중, Odien4180/Odien4180의 정기적인 개인 리포지토리 관리",
+      "headline": "7월 말 신규 기능 구현 및 자동화 테스트 집중",
       "highlights": [
-        "Github-activity-reporter에서는 반복적이고 집중적인 커밋 활동을 통해 기능 개발과 코드 유지보수가 이루어짐",
-        "Odien4180/Odien4180에서는 비교적 적은 커밋으로 개인 저장소의 콘텐츠와 설정을 업데이트"
+        "활발한 커밋 활동으로 코드 자동화 및 기능 추가가 이루어짐",
+        "짧은 시간 내 잦은 커밋 반복으로 전체 기능의 안정성 점검 진행",
+        "동시 커밋 일자와 시간 분석을 통해 개발 집중도가 높았음"
       ]
     },
     "repositories": [
@@ -29,7 +30,7 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "기능 구현과 코드 유지보수를 중심으로 여러 번의 커밋이 이루어짐. 전체적으로 개발과 안정성 개선이 주된 활동.",
+        "summary": "Github-activity-reporter에서 단기간에 다수의 커밋으로 기능 확장과 자동화 작업을 진행함.",
         "metrics": {
           "commits": 20,
           "pullRequestsOpened": 0,
@@ -47,9 +48,9 @@
         "url": "https://github.com/Odien4180/Odien4180",
         "language": "HTML",
         "topics": [],
-        "summary": "정기적인 커밋으로 개인 리포지토리 관리 및 수정이 이루어짐. 콘텐츠 및 설정 갱신이 중점.",
+        "summary": "Odien4180 저장소에서 여러 커밋을 통해 프로파일 관리 및 코드 업데이트가 집중적으로 이루어짐.",
         "metrics": {
-          "commits": 9,
+          "commits": 10,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
