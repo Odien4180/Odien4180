@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-07-27 ~ 2026-07-28 · 업데이트 2026-07-28 10:45 KST
+> 보고 기간: 2026-07-27 ~ 2026-07-28 · 업데이트 2026-07-28 11:02 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -27,22 +27,22 @@ Here are some ideas to get you started:
 
 | 공개 저장소 | 공개 커밋 | 비공개 저장소 | 비공개 커밋 |
 | :---: | :---: | :---: | :---: |
-| **2** | **34** | **0** | **0** |
+| **2** | **35** | **1** | **1** |
 
 ### 공개 프로젝트
 
 #### 이번 활동 요약
 
-> 커밋 기반 초기 개발 집중 및 반복 작업 진행
+> 단기간에 많은 커밋을 통한 기능 구현과 자동화 작업 진행
 
-- Github-activity-reporter에서는 여러 커밋을 통해 핵심 기능 구현과 반복적인 저장 및 수정 작업이 이루어짐
-- Odien4180 저장소에서는 세부 기능 추가 및 코드 개선으로 개인 프로필과 관련한 지속적 개선이 확인됨
+- Github-activity-reporter에서 반복적 커밋으로 기능 추가 및 자동화 코드 개발이 주를 이룸
+- Odien4180 저장소에서 자기소개 및 관련 문서 갱신, 개별 정보 업데이트가 활발히 이루어짐
 
 #### [Odien4180/Github-activity-reporter](https://github.com/Odien4180/Github-activity-reporter)
 
 > 사용자 깃 활동 리포팅 환경 자동 구성
 
-Github-activity-reporter는 반복 커밋과 저장을 통해 주요 기능 구축과 초기 개발에 집중함.
+Github-activity-reporter에 집중된 작업으로 기능 구현과 자동화 코드가 반복적으로 추가됨
 
 **활동:** 커밋 20건
 
@@ -50,15 +50,17 @@ Github-activity-reporter는 반복 커밋과 저장을 통해 주요 기능 구�
 
 #### [Odien4180/Odien4180](https://github.com/Odien4180/Odien4180)
 
-Odien4180 저장소는 프로필 및 코드 개선을 위한 일련의 커밋을 통해 지속적으로 관리됨.
+Odien4180 저장소에서는 사용자 정보와 문서 갱신을 중심으로 커밋 작업이 진행됨
 
-**활동:** 커밋 14건
+**활동:** 커밋 15건
 
 <sub>주요 언어: HTML</sub>
 
 ### 비공개 활동
 
-이번 기간에는 비공개 저장소 활동이 없습니다.
+최근 보고 기간 동안 1개의 비공개 저장소에서 활동했습니다.
+
+**집계:** 커밋 1건 · 활동한 날 1건
 
 <sub>GitHub Activity Reporter가 자동으로 생성한 요약입니다.</sub>
 

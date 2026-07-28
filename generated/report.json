@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T01:45:00.8371465+00:00",
-  "periodStart": "2026-07-27T01:44:46.3167117+00:00",
-  "periodEnd": "2026-07-28T01:44:46.3167117+00:00",
+  "generatedAt": "2026-07-28T02:02:25.9479306+00:00",
+  "periodStart": "2026-07-27T02:02:12.9857307+00:00",
+  "periodEnd": "2026-07-28T02:02:12.9857307+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 34,
+      "commits": 35,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,10 +16,10 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "커밋 기반 초기 개발 집중 및 반복 작업 진행",
+      "headline": "단기간에 많은 커밋을 통한 기능 구현과 자동화 작업 진행",
       "highlights": [
-        "Github-activity-reporter에서는 여러 커밋을 통해 핵심 기능 구현과 반복적인 저장 및 수정 작업이 이루어짐",
-        "Odien4180 저장소에서는 세부 기능 추가 및 코드 개선으로 개인 프로필과 관련한 지속적 개선이 확인됨"
+        "Github-activity-reporter에서 반복적 커밋으로 기능 추가 및 자동화 코드 개발이 주를 이룸",
+        "Odien4180 저장소에서 자기소개 및 관련 문서 갱신, 개별 정보 업데이트가 활발히 이루어짐"
       ]
     },
     "repositories": [
@@ -29,7 +29,7 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "Github-activity-reporter는 반복 커밋과 저장을 통해 주요 기능 구축과 초기 개발에 집중함.",
+        "summary": "Github-activity-reporter에 집중된 작업으로 기능 구현과 자동화 코드가 반복적으로 추가됨",
         "metrics": {
           "commits": 20,
           "pullRequestsOpened": 0,
@@ -47,9 +47,9 @@
         "url": "https://github.com/Odien4180/Odien4180",
         "language": "HTML",
         "topics": [],
-        "summary": "Odien4180 저장소는 프로필 및 코드 개선을 위한 일련의 커밋을 통해 지속적으로 관리됨.",
+        "summary": "Odien4180 저장소에서는 사용자 정보와 문서 갱신을 중심으로 커밋 작업이 진행됨",
         "metrics": {
-          "commits": 14,
+          "commits": 15,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
@@ -64,12 +64,13 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 0,
-    "commits": 0,
+    "activeRepositories": 1,
+    "commits": 1,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
-    "activeDays": 0
+    "activeDays": 1,
+    "lastActivityAt": "2026-07-27T15:55:56+00:00"
   }
 }
