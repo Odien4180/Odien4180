@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-07-27 ~ 2026-07-28 · 업데이트 2026-07-28 10:24 KST
+> 보고 기간: 2026-07-27 ~ 2026-07-28 · 업데이트 2026-07-28 10:26 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -27,22 +27,22 @@ Here are some ideas to get you started:
 
 | 공개 저장소 | 공개 커밋 | 비공개 저장소 | 비공개 커밋 |
 | :---: | :---: | :---: | :---: |
-| **2** | **31** | **0** | **0** |
+| **2** | **32** | **0** | **0** |
 
 ### 공개 프로젝트
 
 #### 이번 활동 요약
 
-> Odien4180/Github-activity-reporter의 기능 개발 집중, Odien4180/Odien4180에서는 정비 작업 및 구조 변경 위주
+> 커밋 중심 활동으로 자동화 및 프로젝트 유지보수 강화
 
-- Github-activity-reporter에서 주로 기능 구현 및 코드 개선 진행됨
-- Odien4180/Odien4180에서는 코드 정비와 구조 변경에 주력
+- Github-activity-reporter에서 다수의 커밋을 통해 자동화 및 코드 유지보수 작업 집중
+- Odien4180 프로필 리포지토리에서 반복적인 커밋으로 환경 설정 및 개인 정보 관리 작업 진행
 
 #### [Odien4180/Github-activity-reporter](https://github.com/Odien4180/Github-activity-reporter)
 
 > 사용자 깃 활동 리포팅 환경 자동 구성
 
-기능 구현과 자동화 작업이 집중적으로 이루어짐. 여러 커밋을 통한 기능 추가 및 코드 구조 개선이 확인됨.
+다수의 커밋을 통해 자동화와 전체 프로젝트 구조 유지에 중점을 둔 개선 활동이 이루어졌음.
 
 **활동:** 커밋 20건
 
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 #### [Odien4180/Odien4180](https://github.com/Odien4180/Odien4180)
 
-코드 정비와 구조 변경 중심의 활동이 있었음. 반복적인 작업을 통해 리포지토리 관리가 이루어짐.
+프로필 리포지토리에서 여러 커밋으로 개인 설정과 정보 관리가 집중적으로 이루어짐.
 
-**활동:** 커밋 11건
+**활동:** 커밋 12건
 
 <sub>주요 언어: HTML</sub>
 
