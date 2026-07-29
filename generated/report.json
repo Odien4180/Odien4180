@@ -1,75 +1,35 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T23:14:20.5899936+00:00",
-  "periodStart": "2026-07-27T23:14:07.8537616+00:00",
-  "periodEnd": "2026-07-28T23:14:07.8537616+00:00",
+  "generatedAt": "2026-07-29T23:12:33.0442615+00:00",
+  "periodStart": "2026-07-28T23:12:24.7276972+00:00",
+  "periodEnd": "2026-07-29T23:12:24.7276972+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 27,
+      "commits": 1,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 2,
+      "reviews": 0,
       "releases": 0
     },
     "narrative": {
-      "headline": "활발한 자동화 및 유지보수 중심의 개발 활동 진행",
+      "headline": "Odien4180/Odien4180에서 단일 커밋으로 초기 작업 진행됨",
       "highlights": [
-        "Github-activity-reporter 프로젝트에서 자동화 및 코드 유지보수에 집중, 다수의 커밋과 리뷰 수행",
-        "Odien4180 저장소에서는 개인 설정 및 코드 정비에 중점",
-        "MVP 프로젝트는 초기 기능 구현에 집중하여 여러 커밋 진행"
+        "단일 커밋을 통해 프로젝트 첫 작업 완료됨"
       ]
     },
     "repositories": [
-      {
-        "name": "Odien4180/Github-activity-reporter",
-        "url": "https://github.com/Odien4180/Github-activity-reporter",
-        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
-        "language": "C#",
-        "topics": [],
-        "summary": "자동화와 유지보수 작업이 주로 이루어졌으며, 리뷰 활동도 함께 진행되어 개발의 안정성을 높임.",
-        "metrics": {
-          "commits": 15,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 2,
-          "releases": 0
-        },
-        "events": []
-      },
       {
         "name": "Odien4180/Odien4180",
         "url": "https://github.com/Odien4180/Odien4180",
         "language": "HTML",
         "topics": [],
-        "summary": "개인 설정 및 정비 위주로 다수의 커밋이 이루어짐.",
+        "summary": "단일 커밋으로 초기 개발 단계가 시작되었습니다.",
         "metrics": {
-          "commits": 9,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 0,
-          "releases": 0
-        },
-        "events": []
-      },
-      {
-        "name": "Odien4180/MVP",
-        "url": "https://github.com/Odien4180/MVP",
-        "description": "유니티에서 UI 구현에 사용하기 위한 MVP 패턴 구현",
-        "language": "C#",
-        "topics": [],
-        "summary": "MVP 기능의 초기 구현에 집중하여 기초 개발이 활발히 진행됨.",
-        "metrics": {
-          "commits": 3,
+          "commits": 1,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
@@ -84,13 +44,13 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 2,
-    "commits": 6,
+    "activeRepositories": 4,
+    "commits": 22,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "activeDays": 1,
-    "lastActivityAt": "2026-07-28T16:20:19+00:00"
+    "lastActivityAt": "2026-07-29T16:23:33+00:00"
   }
 }
