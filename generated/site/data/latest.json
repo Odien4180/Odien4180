@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T01:37:35.0216981+00:00",
-  "periodStart": "2026-07-29T01:37:24.851482+00:00",
-  "periodEnd": "2026-07-30T01:37:24.851482+00:00",
+  "generatedAt": "2026-07-30T23:17:57.0729704+00:00",
+  "periodStart": "2026-07-29T23:17:42.7104345+00:00",
+  "periodEnd": "2026-07-30T23:17:42.7104345+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 1,
@@ -17,26 +17,25 @@
       "TotalCount": 3
     },
     "narrative": {
-      "Headline": "\uCF54\uB4DC \uAC1C\uC120 \uBC0F \uD488\uC9C8 \uC810\uAC80 \uC911\uC2EC\uC758 \uAC1C\uBC1C \uD65C\uB3D9",
+      "Headline": "1\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0\uC11C \uCF54\uB4DC \uB9AC\uBDF0\uB97C \uC911\uC2EC\uC73C\uB85C \uAC1C\uBC1C \uD65C\uB3D9\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4.",
       "Highlights": [
-        "\uCF54\uB4DC \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uAE30\uB2A5 \uB610\uB294 \uD488\uC9C8 \uAC1C\uC120\uC774 \uC774\uB8E8\uC5B4\uC9D0",
-        "\uB9AC\uBDF0 \uC81C\uCD9C\uB85C \uCF54\uB4DC \uD488\uC9C8\uC5D0 \uB300\uD55C \uC810\uAC80 \uC9C4\uD589"
+        "Odien4180/Github-activity-reporter (C#): \uCEE4\uBC0B 2\uAC74, \uB9AC\uBDF0 1\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4."
       ]
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 4,
-    "CommitCount": 22,
-    "PullRequestOpenedCount": 0,
+    "ActiveRepositoryCount": 2,
+    "CommitCount": 52,
+    "PullRequestOpenedCount": 7,
     "PullRequestMergedCount": 0,
-    "PullRequestClosedCount": 0,
+    "PullRequestClosedCount": 10,
     "IssueOpenedCount": 0,
     "IssueClosedCount": 0,
-    "ReviewSubmittedCount": 0,
+    "ReviewSubmittedCount": 1,
     "ReleasePublishedCount": 0,
     "ActiveDayCount": 1,
-    "LastActivityAt": "2026-07-29T16:23:33+00:00",
-    "TotalEventCount": 22,
+    "LastActivityAt": "2026-07-30T18:20:45+00:00",
+    "TotalEventCount": 70,
     "HasActivity": true
   },
   "timeZone": "Asia/Seoul"

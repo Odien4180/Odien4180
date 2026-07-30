@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T01:37:35.0216981+00:00",
-  "periodStart": "2026-07-29T01:37:24.851482+00:00",
-  "periodEnd": "2026-07-30T01:37:24.851482+00:00",
+  "generatedAt": "2026-07-30T23:17:57.0729704+00:00",
+  "periodStart": "2026-07-29T23:17:42.7104345+00:00",
+  "periodEnd": "2026-07-30T23:17:42.7104345+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
@@ -16,10 +16,9 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "코드 개선 및 품질 점검 중심의 개발 활동",
+      "headline": "1개 공개 저장소에서 코드 리뷰를 중심으로 개발 활동을 진행했습니다.",
       "highlights": [
-        "코드 커밋을 통해 기능 또는 품질 개선이 이루어짐",
-        "리뷰 제출로 코드 품질에 대한 점검 진행"
+        "Odien4180/Github-activity-reporter (C#): 커밋 2건, 리뷰 1건을 진행했습니다."
       ]
     },
     "repositories": [
@@ -29,7 +28,7 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "커밋과 리뷰 제출을 통해 코드 개선과 품질 점검을 수행함",
+        "summary": "커밋 2건을 반영했습니다.",
         "metrics": {
           "commits": 2,
           "pullRequestsOpened": 0,
@@ -46,13 +45,13 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 4,
-    "commits": 22,
-    "pullRequestsOpened": 0,
+    "activeRepositories": 2,
+    "commits": 52,
+    "pullRequestsOpened": 7,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "activeDays": 1,
-    "lastActivityAt": "2026-07-29T16:23:33+00:00"
+    "lastActivityAt": "2026-07-30T18:20:45+00:00"
   }
 }
