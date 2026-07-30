@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-07-29T23:12:33.0442615+00:00",
-  "periodStart": "2026-07-28T23:12:24.7276972+00:00",
-  "periodEnd": "2026-07-29T23:12:24.7276972+00:00",
+  "generatedAt": "2026-07-30T01:37:35.0216981+00:00",
+  "periodStart": "2026-07-29T01:37:24.851482+00:00",
+  "periodEnd": "2026-07-30T01:37:24.851482+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 1,
     "metrics": {
-      "CommitCount": 1,
+      "CommitCount": 2,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
       "IssueOpenedCount": 0,
       "IssueClosedCount": 0,
-      "ReviewSubmittedCount": 0,
+      "ReviewSubmittedCount": 1,
       "ReleasePublishedCount": 0,
-      "TotalCount": 1
+      "TotalCount": 3
     },
     "narrative": {
-      "Headline": "Odien4180/Odien4180\uC5D0\uC11C \uB2E8\uC77C \uCEE4\uBC0B\uC73C\uB85C \uCD08\uAE30 \uC791\uC5C5 \uC9C4\uD589\uB428",
+      "Headline": "\uCF54\uB4DC \uAC1C\uC120 \uBC0F \uD488\uC9C8 \uC810\uAC80 \uC911\uC2EC\uC758 \uAC1C\uBC1C \uD65C\uB3D9",
       "Highlights": [
-        "\uB2E8\uC77C \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uD504\uB85C\uC81D\uD2B8 \uCCAB \uC791\uC5C5 \uC644\uB8CC\uB428"
+        "\uCF54\uB4DC \uCEE4\uBC0B\uC744 \uD1B5\uD574 \uAE30\uB2A5 \uB610\uB294 \uD488\uC9C8 \uAC1C\uC120\uC774 \uC774\uB8E8\uC5B4\uC9D0",
+        "\uB9AC\uBDF0 \uC81C\uCD9C\uB85C \uCF54\uB4DC \uD488\uC9C8\uC5D0 \uB300\uD55C \uC810\uAC80 \uC9C4\uD589"
       ]
     }
   },

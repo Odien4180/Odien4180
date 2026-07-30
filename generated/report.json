@@ -1,41 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T23:12:33.0442615+00:00",
-  "periodStart": "2026-07-28T23:12:24.7276972+00:00",
-  "periodEnd": "2026-07-29T23:12:24.7276972+00:00",
+  "generatedAt": "2026-07-30T01:37:35.0216981+00:00",
+  "periodStart": "2026-07-29T01:37:24.851482+00:00",
+  "periodEnd": "2026-07-30T01:37:24.851482+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 1,
+      "commits": 2,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 0,
+      "reviews": 1,
       "releases": 0
     },
     "narrative": {
-      "headline": "Odien4180/Odien4180에서 단일 커밋으로 초기 작업 진행됨",
+      "headline": "코드 개선 및 품질 점검 중심의 개발 활동",
       "highlights": [
-        "단일 커밋을 통해 프로젝트 첫 작업 완료됨"
+        "코드 커밋을 통해 기능 또는 품질 개선이 이루어짐",
+        "리뷰 제출로 코드 품질에 대한 점검 진행"
       ]
     },
     "repositories": [
       {
-        "name": "Odien4180/Odien4180",
-        "url": "https://github.com/Odien4180/Odien4180",
-        "language": "HTML",
+        "name": "Odien4180/Github-activity-reporter",
+        "url": "https://github.com/Odien4180/Github-activity-reporter",
+        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
+        "language": "C#",
         "topics": [],
-        "summary": "단일 커밋으로 초기 개발 단계가 시작되었습니다.",
+        "summary": "커밋과 리뷰 제출을 통해 코드 개선과 품질 점검을 수행함",
         "metrics": {
-          "commits": 1,
+          "commits": 2,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
           "issuesOpened": 0,
           "issuesClosed": 0,
-          "reviews": 0,
+          "reviews": 1,
           "releases": 0
         },
         "events": []
