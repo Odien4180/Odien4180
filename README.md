@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-07-30 ~ 2026-07-31 · 업데이트 2026-07-31 08:17 KST
+> 보고 기간: 2026-07-31 ~ 2026-08-01 · 업데이트 2026-08-01 08:14 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -27,31 +27,33 @@ Here are some ideas to get you started:
 
 | 공개 저장소 | 공개 커밋 | 비공개 저장소 | 비공개 커밋 |
 | :---: | :---: | :---: | :---: |
-| **1** | **2** | **2** | **52** |
+| **1** | **0** | **5** | **69** |
 
 ### 공개 프로젝트
 
 #### 이번 활동 요약
 
-> 1개 공개 저장소에서 코드 리뷰를 중심으로 개발 활동을 진행했습니다.
+> 1개 공개 저장소에서 릴리스를 중심으로 개발 활동을 진행했습니다.
 
-- Odien4180/Github-activity-reporter (C#): 커밋 2건, 리뷰 1건을 진행했습니다.
+- Odien4180/MVP (C#): 릴리스 1건을 진행했습니다.
 
-#### [Odien4180/Github-activity-reporter](https://github.com/Odien4180/Github-activity-reporter)
+#### [Odien4180/MVP](https://github.com/Odien4180/MVP)
 
-> 사용자 깃 활동 리포팅 환경 자동 구성
+> 유니티에서 UI 구현에 사용하기 위한 MVP 패턴 구현
 
-커밋 2건을 반영했습니다.
+"유니티 6 대응" 작업을 진행했습니다.
 
-**활동:** 커밋 2건 · 작성한 리뷰 1건
+**활동:** 릴리스 1건
+
+- 릴리스: [유니티 6 대응](https://github.com/Odien4180/MVP/releases/tag/v1.0.2)
 
 <sub>주요 언어: C#</sub>
 
 ### 비공개 활동
 
-최근 보고 기간 동안 2개의 비공개 저장소에서 활동했습니다.
+최근 보고 기간 동안 5개의 비공개 저장소에서 활동했습니다.
 
-**집계:** 커밋 52건 · 생성한 풀 리퀘스트 7건 · 작성한 리뷰 1건 · 활동한 날 1건
+**집계:** 커밋 69건 · 작성한 리뷰 1건 · 활동한 날 1건
 
 <sub>GitHub Activity Reporter가 자동으로 생성한 요약입니다.</sub>
 

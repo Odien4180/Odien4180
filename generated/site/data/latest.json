@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-07-30T23:17:57.0729704+00:00",
-  "periodStart": "2026-07-29T23:17:42.7104345+00:00",
-  "periodEnd": "2026-07-30T23:17:42.7104345+00:00",
+  "generatedAt": "2026-07-31T23:14:33.6548704+00:00",
+  "periodStart": "2026-07-30T23:14:25.4475622+00:00",
+  "periodEnd": "2026-07-31T23:14:25.4475622+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 1,
     "metrics": {
-      "CommitCount": 2,
+      "CommitCount": 0,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
       "IssueOpenedCount": 0,
       "IssueClosedCount": 0,
-      "ReviewSubmittedCount": 1,
-      "ReleasePublishedCount": 0,
-      "TotalCount": 3
+      "ReviewSubmittedCount": 0,
+      "ReleasePublishedCount": 1,
+      "TotalCount": 1
     },
     "narrative": {
-      "Headline": "1\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0\uC11C \uCF54\uB4DC \uB9AC\uBDF0\uB97C \uC911\uC2EC\uC73C\uB85C \uAC1C\uBC1C \uD65C\uB3D9\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4.",
+      "Headline": "1\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0\uC11C \uB9B4\uB9AC\uC2A4\uB97C \uC911\uC2EC\uC73C\uB85C \uAC1C\uBC1C \uD65C\uB3D9\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4.",
       "Highlights": [
-        "Odien4180/Github-activity-reporter (C#): \uCEE4\uBC0B 2\uAC74, \uB9AC\uBDF0 1\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4."
+        "Odien4180/MVP (C#): \uB9B4\uB9AC\uC2A4 1\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4."
       ]
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 2,
-    "CommitCount": 52,
-    "PullRequestOpenedCount": 7,
+    "ActiveRepositoryCount": 5,
+    "CommitCount": 69,
+    "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
-    "PullRequestClosedCount": 10,
+    "PullRequestClosedCount": 3,
     "IssueOpenedCount": 0,
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 1,
     "ReleasePublishedCount": 0,
     "ActiveDayCount": 1,
-    "LastActivityAt": "2026-07-30T18:20:45+00:00",
-    "TotalEventCount": 70,
+    "LastActivityAt": "2026-07-31T17:47:54+00:00",
+    "TotalEventCount": 73,
     "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
