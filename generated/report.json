@@ -1,64 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T23:14:33.6548704+00:00",
-  "periodStart": "2026-07-30T23:14:25.4475622+00:00",
-  "periodEnd": "2026-07-31T23:14:25.4475622+00:00",
+  "generatedAt": "2026-08-01T23:08:25.0067683+00:00",
+  "periodStart": "2026-07-31T23:08:19.2923295+00:00",
+  "periodEnd": "2026-08-01T23:08:19.2923295+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 0,
+      "commits": 3,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
       "reviews": 0,
-      "releases": 1
+      "releases": 0
     },
     "narrative": {
-      "headline": "1개 공개 저장소에서 릴리스를 중심으로 개발 활동을 진행했습니다.",
+      "headline": "2개 공개 저장소에 3개의 커밋을 반영하며 개발을 이어갔습니다.",
       "highlights": [
-        "Odien4180/MVP (C#): 릴리스 1건을 진행했습니다."
+        "Odien4180/BaitBall (C#): 커밋 2건을 진행했습니다.",
+        "Odien4180/Github-activity-reporter (C#): 커밋 1건을 진행했습니다."
       ]
     },
     "repositories": [
       {
-        "name": "Odien4180/MVP",
-        "url": "https://github.com/Odien4180/MVP",
-        "description": "유니티에서 UI 구현에 사용하기 위한 MVP 패턴 구현",
+        "name": "Odien4180/BaitBall",
+        "url": "https://github.com/Odien4180/BaitBall",
+        "description": "본격 물고기 하이퍼 캐주얼",
         "language": "C#",
         "topics": [],
-        "summary": "\"유니티 6 대응\" 작업을 진행했습니다.",
+        "summary": "본격 물고기 하이퍼 캐주얼을 위한 개발 변경을 이어갔습니다. (커밋 2건)",
         "metrics": {
-          "commits": 0,
+          "commits": 2,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
           "issuesOpened": 0,
           "issuesClosed": 0,
           "reviews": 0,
-          "releases": 1
+          "releases": 0
         },
-        "events": [
-          {
-            "type": "releasePublished",
-            "title": "유니티 6 대응",
-            "url": "https://github.com/Odien4180/MVP/releases/tag/v1.0.2",
-            "occurredAt": "2026-07-31T07:48:49+00:00"
-          }
-        ]
+        "events": []
+      },
+      {
+        "name": "Odien4180/Github-activity-reporter",
+        "url": "https://github.com/Odien4180/Github-activity-reporter",
+        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
+        "language": "C#",
+        "topics": [],
+        "summary": "사용자 깃 활동 리포팅 환경 자동 구성을 위한 개발 변경을 이어갔습니다. (커밋 1건)",
+        "metrics": {
+          "commits": 1,
+          "pullRequestsOpened": 0,
+          "pullRequestsMerged": 0,
+          "pullRequestsClosed": 0,
+          "issuesOpened": 0,
+          "issuesClosed": 0,
+          "reviews": 0,
+          "releases": 0
+        },
+        "events": []
       }
     ]
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 5,
-    "commits": 69,
+    "activeRepositories": 3,
+    "commits": 32,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "activeDays": 1,
-    "lastActivityAt": "2026-07-31T17:47:54+00:00"
+    "lastActivityAt": "2026-08-01T14:18:11+00:00"
   }
 }
