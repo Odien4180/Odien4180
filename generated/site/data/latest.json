@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T23:08:25.0067683+00:00",
-  "periodStart": "2026-07-31T23:08:19.2923295+00:00",
-  "periodEnd": "2026-08-01T23:08:19.2923295+00:00",
+  "generatedAt": "2026-08-02T23:08:08.0451763+00:00",
+  "periodStart": "2026-08-01T23:08:06.0690348+00:00",
+  "periodEnd": "2026-08-02T23:08:06.0690348+00:00",
   "user": "Odien4180",
   "publicActivity": {
-    "activeRepositoryCount": 2,
+    "activeRepositoryCount": 1,
     "metrics": {
-      "CommitCount": 3,
+      "CommitCount": 1,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,19 +14,18 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 3
+      "TotalCount": 1
     },
     "narrative": {
-      "Headline": "2\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0 3\uAC1C\uC758 \uCEE4\uBC0B\uC744 \uBC18\uC601\uD558\uBA70 \uAC1C\uBC1C\uC744 \uC774\uC5B4\uAC14\uC2B5\uB2C8\uB2E4.",
+      "Headline": "1\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0 1\uAC1C\uC758 \uCEE4\uBC0B\uC744 \uBC18\uC601\uD558\uBA70 \uAC1C\uBC1C\uC744 \uC774\uC5B4\uAC14\uC2B5\uB2C8\uB2E4.",
       "Highlights": [
-        "Odien4180/BaitBall (C#): \uCEE4\uBC0B 2\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4.",
-        "Odien4180/Github-activity-reporter (C#): \uCEE4\uBC0B 1\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4."
+        "Odien4180/BaitBall (C#): \uCEE4\uBC0B 1\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4."
       ]
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 3,
-    "CommitCount": 32,
+    "ActiveRepositoryCount": 0,
+    "CommitCount": 0,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -34,10 +33,9 @@
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 1,
-    "LastActivityAt": "2026-08-01T14:18:11+00:00",
-    "TotalEventCount": 32,
-    "HasActivity": true
+    "ActiveDayCount": 0,
+    "TotalEventCount": 0,
+    "HasActivity": false
   },
   "timeZone": "Asia/Seoul"
 }
