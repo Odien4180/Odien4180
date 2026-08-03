@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T23:08:08.0451763+00:00",
-  "periodStart": "2026-08-01T23:08:06.0690348+00:00",
-  "periodEnd": "2026-08-02T23:08:06.0690348+00:00",
+  "generatedAt": "2026-08-03T23:17:49.990653+00:00",
+  "periodStart": "2026-08-02T23:17:46.6907493+00:00",
+  "periodEnd": "2026-08-03T23:17:46.6907493+00:00",
   "user": "Odien4180",
   "publicActivity": {
-    "activeRepositoryCount": 1,
+    "activeRepositoryCount": 0,
     "metrics": {
-      "CommitCount": 1,
+      "CommitCount": 0,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,28 +14,26 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 1
+      "TotalCount": 0
     },
     "narrative": {
-      "Headline": "1\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0 1\uAC1C\uC758 \uCEE4\uBC0B\uC744 \uBC18\uC601\uD558\uBA70 \uAC1C\uBC1C\uC744 \uC774\uC5B4\uAC14\uC2B5\uB2C8\uB2E4.",
-      "Highlights": [
-        "Odien4180/BaitBall (C#): \uCEE4\uBC0B 1\uAC74\uC744 \uC9C4\uD589\uD588\uC2B5\uB2C8\uB2E4."
-      ]
+      "Highlights": []
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 0,
-    "CommitCount": 0,
-    "PullRequestOpenedCount": 0,
+    "ActiveRepositoryCount": 2,
+    "CommitCount": 5,
+    "PullRequestOpenedCount": 1,
     "PullRequestMergedCount": 0,
-    "PullRequestClosedCount": 0,
+    "PullRequestClosedCount": 1,
     "IssueOpenedCount": 0,
     "IssueClosedCount": 0,
-    "ReviewSubmittedCount": 0,
+    "ReviewSubmittedCount": 2,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 0,
-    "TotalEventCount": 0,
-    "HasActivity": false
+    "ActiveDayCount": 1,
+    "LastActivityAt": "2026-08-03T07:13:37+00:00",
+    "TotalEventCount": 9,
+    "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
 }
