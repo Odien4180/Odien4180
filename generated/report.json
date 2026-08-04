@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T23:17:49.990653+00:00",
-  "periodStart": "2026-08-02T23:17:46.6907493+00:00",
-  "periodEnd": "2026-08-03T23:17:46.6907493+00:00",
+  "generatedAt": "2026-08-04T23:17:34.3672003+00:00",
+  "periodStart": "2026-08-03T23:17:30.7872334+00:00",
+  "periodEnd": "2026-08-04T23:17:30.7872334+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 0,
+      "commits": 2,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,19 +16,42 @@
       "releases": 0
     },
     "narrative": {
-      "highlights": []
+      "headline": "1개 공개 저장소에 2개의 커밋을 반영하며 개발을 이어갔습니다.",
+      "highlights": [
+        "Odien4180/BaitBall (C#): 커밋 2건을 진행했습니다."
+      ]
     },
-    "repositories": []
+    "repositories": [
+      {
+        "name": "Odien4180/BaitBall",
+        "url": "https://github.com/Odien4180/BaitBall",
+        "description": "본격 물고기 하이퍼 캐주얼",
+        "language": "C#",
+        "topics": [],
+        "summary": "본격 물고기 하이퍼 캐주얼을 위한 개발 변경을 이어갔습니다. (커밋 2건)",
+        "metrics": {
+          "commits": 2,
+          "pullRequestsOpened": 0,
+          "pullRequestsMerged": 0,
+          "pullRequestsClosed": 0,
+          "issuesOpened": 0,
+          "issuesClosed": 0,
+          "reviews": 0,
+          "releases": 0
+        },
+        "events": []
+      }
+    ]
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 2,
-    "commits": 5,
-    "pullRequestsOpened": 1,
+    "activeRepositories": 1,
+    "commits": 3,
+    "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "activeDays": 1,
-    "lastActivityAt": "2026-08-03T07:13:37+00:00"
+    "lastActivityAt": "2026-08-04T13:45:43+00:00"
   }
 }
