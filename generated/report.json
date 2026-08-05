@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T04:31:06.3369091+00:00",
-  "periodStart": "2026-08-04T04:31:02.2226329+00:00",
-  "periodEnd": "2026-08-05T04:31:02.2226329+00:00",
+  "generatedAt": "2026-08-05T04:49:21.0475723+00:00",
+  "periodStart": "2026-08-04T04:49:17.0280029+00:00",
+  "periodEnd": "2026-08-05T04:49:17.0280029+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 3,
+      "commits": 5,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,22 +16,22 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "2개 공개 저장소에 3개의 커밋을 반영하며 개발을 이어갔습니다.",
+      "headline": "2개 공개 저장소에 5개의 커밋을 반영하며 공개 작업을 이어갔습니다.",
       "highlights": [
-        "Odien4180/BaitBall (C#): 커밋 2건을 진행했습니다.",
-        "Odien4180/Odien4180 (HTML): 커밋 1건을 진행했습니다."
+        "Odien4180/Github-activity-reporter (C#): 커밋 3건을 중심으로 흐름을 정리했습니다.",
+        "Odien4180/BaitBall (C#): 커밋 2건을 중심으로 흐름을 정리했습니다."
       ]
     },
     "repositories": [
       {
-        "name": "Odien4180/BaitBall",
-        "url": "https://github.com/Odien4180/BaitBall",
-        "description": "본격 물고기 하이퍼 캐주얼",
+        "name": "Odien4180/Github-activity-reporter",
+        "url": "https://github.com/Odien4180/Github-activity-reporter",
+        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "커밋 2건을 반영했습니다.",
+        "summary": "사용자 깃 활동 리포팅 환경 자동 구성 방향으로 구현과 정비를 이어갔습니다. (커밋 3건)",
         "metrics": {
-          "commits": 2,
+          "commits": 3,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
@@ -43,13 +43,14 @@
         "events": []
       },
       {
-        "name": "Odien4180/Odien4180",
-        "url": "https://github.com/Odien4180/Odien4180",
-        "language": "HTML",
+        "name": "Odien4180/BaitBall",
+        "url": "https://github.com/Odien4180/BaitBall",
+        "description": "본격 물고기 하이퍼 캐주얼",
+        "language": "C#",
         "topics": [],
-        "summary": "커밋 1건을 반영했습니다.",
+        "summary": "본격 물고기 하이퍼 캐주얼 방향으로 구현과 정비를 이어갔습니다. (커밋 2건)",
         "metrics": {
-          "commits": 1,
+          "commits": 2,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
