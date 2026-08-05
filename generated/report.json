@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T09:24:10.747184+00:00",
-  "periodStart": "2026-08-04T09:23:40.2903502+00:00",
-  "periodEnd": "2026-08-05T09:23:40.2903502+00:00",
+  "generatedAt": "2026-08-05T09:58:06.3921436+00:00",
+  "periodStart": "2026-08-04T09:57:34.7364252+00:00",
+  "periodEnd": "2026-08-05T09:57:34.7364252+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
@@ -12,15 +12,14 @@
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 12,
+      "reviews": 13,
       "releases": 0
     },
     "narrative": {
-      "headline": "Copilot AI 요약 안정화와 공개 노출 정책 정비가 중심이었다.",
+      "headline": "이번 기간의 주요 작업: 설정 흐름과 연결 지점을 정비했습니다.",
       "highlights": [
-        "Copilot SDK로 AI 요약 경로를 바꾸고, 코드펜스 제거와 요약 스키마 변형 대응으로 파싱 안정성을 높였다.",
-        "공개 활동 설정에서 topics와 commit messages 노출 여부를 조정하고, 비밀키 이름과 실행 시각을 정리했다.",
-        "여러 PR 병합과 리뷰를 통해 AI 요약 관측성, 재시도, 폴백 메타데이터, 빌드 오류를 함께 손봤다."
+        "Odien4180/Github-activity-reporter: 설정 흐름과 연결 지점을 정비했습니다.",
+        "Odien4180/BaitBall: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다."
       ]
     },
     "repositories": [
@@ -30,7 +29,7 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "GitHub Activity Reporter에서 Copilot 기반 AI 요약 파이프라인을 안정화하고 공개 노출 정책, 비밀키 이름, 실행 시각을 정비했다.",
+        "summary": "설정 흐름과 연결 지점을 정비했습니다.",
         "metrics": {
           "commits": 28,
           "pullRequestsOpened": 0,
@@ -38,7 +37,7 @@
           "pullRequestsClosed": 0,
           "issuesOpened": 0,
           "issuesClosed": 0,
-          "reviews": 12,
+          "reviews": 13,
           "releases": 0
         },
         "events": []
@@ -49,7 +48,7 @@
         "description": "본격 물고기 하이퍼 캐주얼",
         "language": "C#",
         "topics": [],
-        "summary": "BaitBall의 C# 하이퍼 캐주얼 저장소는 이번 기간에 2개의 커밋만 있었고 별도 이슈나 PR 활동은 없었다.",
+        "summary": "공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
         "metrics": {
           "commits": 2,
           "pullRequestsOpened": 0,
@@ -66,12 +65,13 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 0,
-    "commits": 0,
+    "activeRepositories": 1,
+    "commits": 3,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
-    "activeDays": 0
+    "activeDays": 1,
+    "lastActivityAt": "2026-08-04T13:45:43+00:00"
   }
 }

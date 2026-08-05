@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T09:24:10.747184+00:00",
-  "periodStart": "2026-08-04T09:23:40.2903502+00:00",
-  "periodEnd": "2026-08-05T09:23:40.2903502+00:00",
+  "generatedAt": "2026-08-05T09:58:06.3921436+00:00",
+  "periodStart": "2026-08-04T09:57:34.7364252+00:00",
+  "periodEnd": "2026-08-05T09:57:34.7364252+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 2,
@@ -12,22 +12,21 @@
       "PullRequestClosedCount": 0,
       "IssueOpenedCount": 0,
       "IssueClosedCount": 0,
-      "ReviewSubmittedCount": 12,
+      "ReviewSubmittedCount": 13,
       "ReleasePublishedCount": 0,
-      "TotalCount": 42
+      "TotalCount": 43
     },
     "narrative": {
-      "Headline": "Copilot AI \uC694\uC57D \uC548\uC815\uD654\uC640 \uACF5\uAC1C \uB178\uCD9C \uC815\uCC45 \uC815\uBE44\uAC00 \uC911\uC2EC\uC774\uC5C8\uB2E4.",
+      "Headline": "\uC774\uBC88 \uAE30\uAC04\uC758 \uC8FC\uC694 \uC791\uC5C5: \uC124\uC815 \uD750\uB984\uACFC \uC5F0\uACB0 \uC9C0\uC810\uC744 \uC815\uBE44\uD588\uC2B5\uB2C8\uB2E4.",
       "Highlights": [
-        "Copilot SDK\uB85C AI \uC694\uC57D \uACBD\uB85C\uB97C \uBC14\uAFB8\uACE0, \uCF54\uB4DC\uD39C\uC2A4 \uC81C\uAC70\uC640 \uC694\uC57D \uC2A4\uD0A4\uB9C8 \uBCC0\uD615 \uB300\uC751\uC73C\uB85C \uD30C\uC2F1 \uC548\uC815\uC131\uC744 \uB192\uC600\uB2E4.",
-        "\uACF5\uAC1C \uD65C\uB3D9 \uC124\uC815\uC5D0\uC11C topics\uC640 commit messages \uB178\uCD9C \uC5EC\uBD80\uB97C \uC870\uC815\uD558\uACE0, \uBE44\uBC00\uD0A4 \uC774\uB984\uACFC \uC2E4\uD589 \uC2DC\uAC01\uC744 \uC815\uB9AC\uD588\uB2E4.",
-        "\uC5EC\uB7EC PR \uBCD1\uD569\uACFC \uB9AC\uBDF0\uB97C \uD1B5\uD574 AI \uC694\uC57D \uAD00\uCE21\uC131, \uC7AC\uC2DC\uB3C4, \uD3F4\uBC31 \uBA54\uD0C0\uB370\uC774\uD130, \uBE4C\uB4DC \uC624\uB958\uB97C \uD568\uAED8 \uC190\uBD24\uB2E4."
+        "Odien4180/Github-activity-reporter: \uC124\uC815 \uD750\uB984\uACFC \uC5F0\uACB0 \uC9C0\uC810\uC744 \uC815\uBE44\uD588\uC2B5\uB2C8\uB2E4.",
+        "Odien4180/BaitBall: \uACF5\uAC1C \uBCC0\uACBD \uB0B4\uC6A9\uC744 \uAD6C\uD604\uD558\uACE0 \uAD00\uB828 \uD750\uB984\uC744 \uC815\uBE44\uD588\uC2B5\uB2C8\uB2E4."
       ]
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 0,
-    "CommitCount": 0,
+    "ActiveRepositoryCount": 1,
+    "CommitCount": 3,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -35,9 +34,10 @@
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 0,
-    "TotalEventCount": 0,
-    "HasActivity": false
+    "ActiveDayCount": 1,
+    "LastActivityAt": "2026-08-04T13:45:43+00:00",
+    "TotalEventCount": 3,
+    "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
 }
