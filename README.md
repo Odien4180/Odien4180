@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-08-04 ~ 2026-08-05 · 업데이트 2026-08-05 16:42 KST
+> 보고 기간: 2026-08-04 ~ 2026-08-05 · 업데이트 2026-08-05 17:05 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Odien4180/Github-activity-reporter: 설정 흐름과 연결 지점을 정비했습니다.
 - Odien4180/BaitBall: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.
 
-> ⚠️ AI 요약을 사용할 수 없어 규칙 기반 요약으로 대체했습니다 (error(JsonReaderException)).
+> ⚠️ AI 요약을 사용할 수 없어 규칙 기반 요약으로 대체했습니다 (error(JsonException)).
 
 #### [Odien4180/Github-activity-reporter](https://github.com/Odien4180/Github-activity-reporter)
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 설정 흐름과 연결 지점을 정비했습니다.
 
-**참고 집계:** 커밋 24건 · 작성한 리뷰 9건
+**참고 집계:** 커밋 26건 · 작성한 리뷰 10건
 
 <sub>주요 언어: C#</sub>
 
