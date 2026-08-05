@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-05T07:32:09.9037622+00:00",
-  "periodStart": "2026-08-04T07:31:57.0595677+00:00",
-  "periodEnd": "2026-08-05T07:31:57.0595677+00:00",
+  "generatedAt": "2026-08-05T07:42:11.6769977+00:00",
+  "periodStart": "2026-08-04T07:41:40.3522195+00:00",
+  "periodEnd": "2026-08-05T07:41:40.3522195+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 2,
     "metrics": {
-      "CommitCount": 23,
+      "CommitCount": 26,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,7 +14,7 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 9,
       "ReleasePublishedCount": 0,
-      "TotalCount": 32
+      "TotalCount": 35
     },
     "narrative": {
       "Headline": "\uC774\uBC88 \uAE30\uAC04\uC758 \uC8FC\uC694 \uC791\uC5C5: \uC124\uC815 \uD750\uB984\uACFC \uC5F0\uACB0 \uC9C0\uC810\uC744 \uC815\uBE44\uD588\uC2B5\uB2C8\uB2E4.",
@@ -25,8 +25,8 @@
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 1,
-    "CommitCount": 3,
+    "ActiveRepositoryCount": 0,
+    "CommitCount": 0,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -34,10 +34,9 @@
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 1,
-    "LastActivityAt": "2026-08-04T13:45:43+00:00",
-    "TotalEventCount": 3,
-    "HasActivity": true
+    "ActiveDayCount": 0,
+    "TotalEventCount": 0,
+    "HasActivity": false
   },
   "timeZone": "Asia/Seoul"
 }

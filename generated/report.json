@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T07:32:09.9037622+00:00",
-  "periodStart": "2026-08-04T07:31:57.0595677+00:00",
-  "periodEnd": "2026-08-05T07:31:57.0595677+00:00",
+  "generatedAt": "2026-08-05T07:42:11.6769977+00:00",
+  "periodStart": "2026-08-04T07:41:40.3522195+00:00",
+  "periodEnd": "2026-08-05T07:41:40.3522195+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 23,
+      "commits": 26,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -31,7 +31,7 @@
         "topics": [],
         "summary": "설정 흐름과 연결 지점을 정비했습니다.",
         "metrics": {
-          "commits": 21,
+          "commits": 24,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
@@ -65,13 +65,12 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 1,
-    "commits": 3,
+    "activeRepositories": 0,
+    "commits": 0,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
-    "activeDays": 1,
-    "lastActivityAt": "2026-08-04T13:45:43+00:00"
+    "activeDays": 0
   }
 }
