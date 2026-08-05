@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 900 330">
   <title id="title">Development Pulse</title>
-  <desc id="desc">AI 요약 안정화와 공개 노출 정책 조정 중심으로 보고서 자동화와 설정을 다듬었다</desc>
+  <desc id="desc">AI 요약 파이프라인 안정화 및 인증 흐름 개선에 집중한 하루</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7c3aed" />
@@ -35,26 +35,26 @@
   <rect x="0" y="0" width="900" height="5" rx="2.5" fill="url(#accent)" />
   <text class="eyebrow" x="30" y="34">GITHUB ACTIVITY</text>
   <text class="title" x="30" y="64">Development Pulse</text>
-  <text class="sub" x="30" y="86">2026-08-04 ~ 2026-08-05</text>
+  <text class="sub" x="30" y="86">2026-08-05 ~ 2026-08-06</text>
   <rect class="status-bg" x="786" y="30" width="84" height="26" rx="13" />
   <text class="status" x="828" y="47" text-anchor="middle">ACTIVE</text>
   <rect class="card" x="30" y="112" width="194" height="118" rx="14" />
   <text class="label" x="48" y="143">PUBLIC COMMITS</text>
-  <text class="number" x="48" y="190">30</text>
+  <text class="number" x="48" y="190">38</text>
   <rect x="48" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
   <rect class="card" x="246" y="112" width="194" height="118" rx="14" />
   <text class="label" x="264" y="143">PRIVATE COMMITS</text>
-  <text class="number" x="264" y="190">3</text>
+  <text class="number" x="264" y="190">0</text>
   <rect x="264" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
   <rect class="card" x="462" y="112" width="194" height="118" rx="14" />
   <text class="label" x="480" y="143">ACTIVE REPOSITORIES</text>
-  <text class="number" x="480" y="190">3</text>
+  <text class="number" x="480" y="190">2</text>
   <rect x="480" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
   <rect class="card" x="678" y="112" width="194" height="118" rx="14" />
   <text class="label" x="696" y="143">MERGED PRS</text>
   <text class="number" x="696" y="190">0</text>
   <rect x="696" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
-  <text class="narrative" x="30" y="263">AI 요약 안정화와 공개 노출 정책 조정 중심으로 보고서 자동화와 설정을 다듬었다</text>
-  <text class="sub" x="30" y="302">Updated · 2026-08-05 19:09 KST</text>
+  <text class="narrative" x="30" y="263">AI 요약 파이프라인 안정화 및 인증 흐름 개선에 집중한 하루</text>
+  <text class="sub" x="30" y="302">Updated · 2026-08-06 07:37 KST</text>
   <text class="sub" x="870" y="302" text-anchor="end">github-activity-reporter</text>
 </svg>
