@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-05T04:49:21.0475723+00:00",
-  "periodStart": "2026-08-04T04:49:17.0280029+00:00",
-  "periodEnd": "2026-08-05T04:49:17.0280029+00:00",
+  "generatedAt": "2026-08-05T05:07:09.664162+00:00",
+  "periodStart": "2026-08-04T05:07:05.1363191+00:00",
+  "periodEnd": "2026-08-05T05:07:05.1363191+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 2,
     "metrics": {
-      "CommitCount": 5,
+      "CommitCount": 7,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
       "IssueOpenedCount": 0,
       "IssueClosedCount": 0,
-      "ReviewSubmittedCount": 0,
+      "ReviewSubmittedCount": 1,
       "ReleasePublishedCount": 0,
-      "TotalCount": 5
+      "TotalCount": 8
     },
     "narrative": {
-      "Headline": "2\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0 5\uAC1C\uC758 \uCEE4\uBC0B\uC744 \uBC18\uC601\uD558\uBA70 \uACF5\uAC1C \uC791\uC5C5\uC744 \uC774\uC5B4\uAC14\uC2B5\uB2C8\uB2E4.",
+      "Headline": "2\uAC1C \uACF5\uAC1C \uC800\uC7A5\uC18C\uC5D0\uC11C \uCF54\uB4DC \uB9AC\uBDF0\uB97C \uC911\uC2EC\uC73C\uB85C \uC791\uC5C5 \uD750\uB984\uC744 \uC815\uB9AC\uD588\uC2B5\uB2C8\uB2E4.",
       "Highlights": [
-        "Odien4180/Github-activity-reporter (C#): \uCEE4\uBC0B 3\uAC74\uC744 \uC911\uC2EC\uC73C\uB85C \uD750\uB984\uC744 \uC815\uB9AC\uD588\uC2B5\uB2C8\uB2E4.",
+        "Odien4180/Github-activity-reporter (C#): \uCEE4\uBC0B 5\uAC74, \uB9AC\uBDF0 1\uAC74\uC744 \uC911\uC2EC\uC73C\uB85C \uD750\uB984\uC744 \uC815\uB9AC\uD588\uC2B5\uB2C8\uB2E4.",
         "Odien4180/BaitBall (C#): \uCEE4\uBC0B 2\uAC74\uC744 \uC911\uC2EC\uC73C\uB85C \uD750\uB984\uC744 \uC815\uB9AC\uD588\uC2B5\uB2C8\uB2E4."
       ]
     }
