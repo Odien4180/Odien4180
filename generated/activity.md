@@ -1,6 +1,6 @@
 ## Development Pulse
 
-> 보고 기간: 2026-08-04 ~ 2026-08-05 · 업데이트 2026-08-05 14:44 KST
+> 보고 기간: 2026-08-04 ~ 2026-08-05 · 업데이트 2026-08-05 14:50 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -21,7 +21,10 @@
 
 설정 흐름과 연결 지점을 정비했습니다.
 
-**참고 집계:** 커밋 9건 · 작성한 리뷰 3건
+**참고 집계:** 커밋 11건 · 작성한 리뷰 4건
+
+- 커밋: config: enable expose_topics and expose_commit_messages for public activity
+- 커밋: Merge pull request #10 from Odien4180/copilot/public-repository-policy-update
 
 <sub>주요 언어: C#</sub>
 
@@ -32,6 +35,9 @@
 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.
 
 **참고 집계:** 커밋 2건
+
+- 커밋: 수중환경 구성
+- 커밋: 포식자 습격 시스템 추가
 
 <sub>주요 언어: C#</sub>
 

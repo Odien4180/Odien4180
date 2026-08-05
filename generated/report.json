@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T05:44:36.0806296+00:00",
-  "periodStart": "2026-08-04T05:44:29.5879093+00:00",
-  "periodEnd": "2026-08-05T05:44:29.5879093+00:00",
+  "generatedAt": "2026-08-05T05:50:56.6752147+00:00",
+  "periodStart": "2026-08-04T05:50:50.7998615+00:00",
+  "periodEnd": "2026-08-05T05:50:50.7998615+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 11,
+      "commits": 13,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 3,
+      "reviews": 4,
       "releases": 0
     },
     "narrative": {
@@ -31,16 +31,27 @@
         "topics": [],
         "summary": "설정 흐름과 연결 지점을 정비했습니다.",
         "metrics": {
-          "commits": 9,
+          "commits": 11,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
           "issuesOpened": 0,
           "issuesClosed": 0,
-          "reviews": 3,
+          "reviews": 4,
           "releases": 0
         },
-        "events": []
+        "events": [
+          {
+            "type": "commit",
+            "title": "config: enable expose_topics and expose_commit_messages for public activity",
+            "occurredAt": "2026-08-05T05:49:55+00:00"
+          },
+          {
+            "type": "commit",
+            "title": "Merge pull request #10 from Odien4180/copilot/public-repository-policy-update",
+            "occurredAt": "2026-08-05T05:49:55+00:00"
+          }
+        ]
       },
       {
         "name": "Odien4180/BaitBall",
@@ -59,7 +70,18 @@
           "reviews": 0,
           "releases": 0
         },
-        "events": []
+        "events": [
+          {
+            "type": "commit",
+            "title": "수중환경 구성",
+            "occurredAt": "2026-08-04T15:09:08+00:00"
+          },
+          {
+            "type": "commit",
+            "title": "포식자 습격 시스템 추가",
+            "occurredAt": "2026-08-04T14:52:16+00:00"
+          }
+        ]
       }
     ]
   },
