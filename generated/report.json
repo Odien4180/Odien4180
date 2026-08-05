@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T23:17:34.3672003+00:00",
-  "periodStart": "2026-08-03T23:17:30.7872334+00:00",
-  "periodEnd": "2026-08-04T23:17:30.7872334+00:00",
+  "generatedAt": "2026-08-05T04:31:06.3369091+00:00",
+  "periodStart": "2026-08-04T04:31:02.2226329+00:00",
+  "periodEnd": "2026-08-05T04:31:02.2226329+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 2,
+      "commits": 3,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,9 +16,10 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "1개 공개 저장소에 2개의 커밋을 반영하며 개발을 이어갔습니다.",
+      "headline": "2개 공개 저장소에 3개의 커밋을 반영하며 개발을 이어갔습니다.",
       "highlights": [
-        "Odien4180/BaitBall (C#): 커밋 2건을 진행했습니다."
+        "Odien4180/BaitBall (C#): 커밋 2건을 진행했습니다.",
+        "Odien4180/Odien4180 (HTML): 커밋 1건을 진행했습니다."
       ]
     },
     "repositories": [
@@ -28,9 +29,27 @@
         "description": "본격 물고기 하이퍼 캐주얼",
         "language": "C#",
         "topics": [],
-        "summary": "본격 물고기 하이퍼 캐주얼을 위한 개발 변경을 이어갔습니다. (커밋 2건)",
+        "summary": "커밋 2건을 반영했습니다.",
         "metrics": {
           "commits": 2,
+          "pullRequestsOpened": 0,
+          "pullRequestsMerged": 0,
+          "pullRequestsClosed": 0,
+          "issuesOpened": 0,
+          "issuesClosed": 0,
+          "reviews": 0,
+          "releases": 0
+        },
+        "events": []
+      },
+      {
+        "name": "Odien4180/Odien4180",
+        "url": "https://github.com/Odien4180/Odien4180",
+        "language": "HTML",
+        "topics": [],
+        "summary": "커밋 1건을 반영했습니다.",
+        "metrics": {
+          "commits": 1,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
