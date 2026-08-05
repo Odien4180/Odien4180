@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-08-04 ~ 2026-08-05 · 업데이트 2026-08-05 18:58 KST
+> 보고 기간: 2026-08-04 ~ 2026-08-05 · 업데이트 2026-08-05 19:09 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -29,20 +29,20 @@ Here are some ideas to get you started:
 
 #### 이번 활동 요약
 
-> 이번 기간의 주요 작업: 설정 흐름과 연결 지점을 정비했습니다.
+> AI 요약 안정화와 공개 노출 정책 조정 중심으로 보고서 자동화와 설정을 다듬었다
 
-- Odien4180/Github-activity-reporter: 설정 흐름과 연결 지점을 정비했습니다.
-- Odien4180/BaitBall: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.
-
-> ⚠️ AI 요약을 사용할 수 없어 규칙 기반 요약으로 대체했습니다 (error(JsonException)).
+- Copilot SDK로 AI 요약 경로를 바꾸고, 코드펜스 제거와 스키마 변형 대응으로 응답 파싱 안정성을 높였다.
+- 공개 활동의 topics와 커밋 메시지 노출 설정을 조정해 공개 범위를 다시 정리했다.
+- 비밀키 이름을 ACTIVITY_REPORTER_GITHUB_TOKEN으로 맞추고, 관련 빌드 오류도 함께 정리했다.
+- Asia/Seoul 기준 실행 시각을 되돌리고 보고서 자동화 흐름을 점검했다.
 
 #### [Odien4180/Github-activity-reporter](https://github.com/Odien4180/Github-activity-reporter)
 
 > 사용자 깃 활동 리포팅 환경 자동 구성
 
-설정 흐름과 연결 지점을 정비했습니다.
+Github-activity-reporter에서는 AI 요약 파이프라인 전환과 응답 파싱 보강, 공개 노출 설정 조정, 비밀키 명칭 정리, 스케줄 복구와 빌드 오류 수정이 이어졌다.
 
-**참고 집계:** 커밋 28건 · 작성한 리뷰 13건
+**참고 집계:** 커밋 28건 · 작성한 리뷰 14건
 
 <sub>주요 언어: C#</sub>
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 > 본격 물고기 하이퍼 캐주얼
 
-공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.
+BaitBall에서는 C# 기반 본격 물고기 하이퍼 캐주얼 프로젝트에서 짧게 2건의 커밋 수정이 이어졌다.
 
 **참고 집계:** 커밋 2건
 

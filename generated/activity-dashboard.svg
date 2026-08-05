@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 900 330">
   <title id="title">Development Pulse</title>
-  <desc id="desc">이번 기간의 주요 작업: 설정 흐름과 연결 지점을 정비했습니다.</desc>
+  <desc id="desc">AI 요약 안정화와 공개 노출 정책 조정 중심으로 보고서 자동화와 설정을 다듬었다</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7c3aed" />
@@ -54,7 +54,7 @@
   <text class="label" x="696" y="143">MERGED PRS</text>
   <text class="number" x="696" y="190">0</text>
   <rect x="696" y="207" width="42" height="3" rx="1.5" fill="url(#accent)" />
-  <text class="narrative" x="30" y="263">이번 기간의 주요 작업: 설정 흐름과 연결 지점을 정비했습니다.</text>
-  <text class="sub" x="30" y="302">Updated · 2026-08-05 18:58 KST</text>
+  <text class="narrative" x="30" y="263">AI 요약 안정화와 공개 노출 정책 조정 중심으로 보고서 자동화와 설정을 다듬었다</text>
+  <text class="sub" x="30" y="302">Updated · 2026-08-05 19:09 KST</text>
   <text class="sub" x="870" y="302" text-anchor="end">github-activity-reporter</text>
 </svg>
