@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T05:07:09.664162+00:00",
-  "periodStart": "2026-08-04T05:07:05.1363191+00:00",
-  "periodEnd": "2026-08-05T05:07:05.1363191+00:00",
+  "generatedAt": "2026-08-05T05:23:26.9787957+00:00",
+  "periodStart": "2026-08-04T05:23:22.2872651+00:00",
+  "periodEnd": "2026-08-05T05:23:22.2872651+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 7,
+      "commits": 9,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 1,
+      "reviews": 2,
       "releases": 0
     },
     "narrative": {
-      "headline": "2개 공개 저장소에서 코드 리뷰를 중심으로 작업 흐름을 정리했습니다.",
+      "headline": "이번 기간의 주요 작업: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
       "highlights": [
-        "Odien4180/Github-activity-reporter (C#): 커밋 5건, 리뷰 1건을 중심으로 흐름을 정리했습니다.",
-        "Odien4180/BaitBall (C#): 커밋 2건을 중심으로 흐름을 정리했습니다."
+        "Odien4180/Github-activity-reporter: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
+        "Odien4180/BaitBall: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다."
       ]
     },
     "repositories": [
@@ -29,15 +29,15 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "커밋 5건으로 공개 변경 사항을 정리했습니다.",
+        "summary": "공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
         "metrics": {
-          "commits": 5,
+          "commits": 7,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
           "issuesOpened": 0,
           "issuesClosed": 0,
-          "reviews": 1,
+          "reviews": 2,
           "releases": 0
         },
         "events": []
@@ -48,7 +48,7 @@
         "description": "본격 물고기 하이퍼 캐주얼",
         "language": "C#",
         "topics": [],
-        "summary": "커밋 2건으로 공개 변경 사항을 정리했습니다.",
+        "summary": "공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
         "metrics": {
           "commits": 2,
           "pullRequestsOpened": 0,
