@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T05:23:26.9787957+00:00",
-  "periodStart": "2026-08-04T05:23:22.2872651+00:00",
-  "periodEnd": "2026-08-05T05:23:22.2872651+00:00",
+  "generatedAt": "2026-08-05T05:44:36.0806296+00:00",
+  "periodStart": "2026-08-04T05:44:29.5879093+00:00",
+  "periodEnd": "2026-08-05T05:44:29.5879093+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 9,
+      "commits": 11,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 2,
+      "reviews": 3,
       "releases": 0
     },
     "narrative": {
-      "headline": "이번 기간의 주요 작업: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
+      "headline": "이번 기간의 주요 작업: 설정 흐름과 연결 지점을 정비했습니다.",
       "highlights": [
-        "Odien4180/Github-activity-reporter: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
+        "Odien4180/Github-activity-reporter: 설정 흐름과 연결 지점을 정비했습니다.",
         "Odien4180/BaitBall: 공개 변경 내용을 구현하고 관련 흐름을 정비했습니다."
       ]
     },
@@ -29,15 +29,15 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "공개 변경 내용을 구현하고 관련 흐름을 정비했습니다.",
+        "summary": "설정 흐름과 연결 지점을 정비했습니다.",
         "metrics": {
-          "commits": 7,
+          "commits": 9,
           "pullRequestsOpened": 0,
           "pullRequestsMerged": 0,
           "pullRequestsClosed": 0,
           "issuesOpened": 0,
           "issuesClosed": 0,
-          "reviews": 2,
+          "reviews": 3,
           "releases": 0
         },
         "events": []
