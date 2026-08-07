@@ -1,69 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T22:37:11.1011607+00:00",
-  "periodStart": "2026-08-04T22:36:28.9203783+00:00",
-  "periodEnd": "2026-08-05T22:36:28.9203783+00:00",
+  "generatedAt": "2026-08-07T00:15:57.7671796+00:00",
+  "periodStart": "2026-08-06T00:15:56.1843899+00:00",
+  "periodEnd": "2026-08-07T00:15:56.1843899+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 38,
+      "commits": 0,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
       "issuesOpened": 0,
       "issuesClosed": 0,
-      "reviews": 14,
+      "reviews": 0,
       "releases": 0
     },
     "narrative": {
-      "headline": "AI 요약 파이프라인 안정화 및 인증 흐름 개선에 집중한 하루",
-      "highlights": [
-        "GitHub Models 대신 GitHub Copilot SDK로 AI 요약 백엔드를 교체하고 응답 파싱 신뢰성을 높였습니다.",
-        "AI 응답의 마크다운 코드 펜스 제거, 중첩 결과 봉투 처리, 스키마 변형 수용 등 파싱 예외 케이스를 순차적으로 수정했습니다.",
-        "워크플로 시크릿 이름 정정과 토큰 분리로 CI 인증 흐름을 바로잡고, 진단 로깅을 추가해 문제 추적을 용이하게 했습니다.",
-        "공개 활동 설정에서 토픽 및 커밋 메시지 노출 옵션을 비활성화해 프라이버시 정책을 강화했습니다."
-      ]
+      "highlights": []
     },
-    "repositories": [
-      {
-        "name": "Odien4180/Github-activity-reporter",
-        "url": "https://github.com/Odien4180/Github-activity-reporter",
-        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
-        "language": "C#",
-        "topics": [],
-        "summary": "AI 요약기의 응답 파싱 오류를 여러 단계에 걸쳐 수정하고 Copilot SDK로 교체했습니다. 인증 토큰 관리와 워크플로 시크릿 설정도 정비했으며, 진단 로깅 추가와 프라이버시 노출 설정 조정까지 완료했습니다.",
-        "metrics": {
-          "commits": 37,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 14,
-          "releases": 0
-        },
-        "events": []
-      },
-      {
-        "name": "Odien4180/BaitBall",
-        "url": "https://github.com/Odien4180/BaitBall",
-        "description": "본격 물고기 하이퍼 캐주얼",
-        "language": "C#",
-        "topics": [],
-        "summary": "게임 루프 초기 구성 작업이 시작되었습니다.",
-        "metrics": {
-          "commits": 1,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 0,
-          "releases": 0
-        },
-        "events": []
-      }
-    ]
+    "repositories": []
   },
   "private": {
     "mode": "aggregate-only",
