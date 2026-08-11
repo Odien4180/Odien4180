@@ -1,6 +1,6 @@
 ## Development Pulse
 
-> 보고 기간: 2026-08-10 ~ 2026-08-11 · 업데이트 2026-08-11 07:24 KST
+> 보고 기간: 2026-08-11 ~ 2026-08-12 · 업데이트 2026-08-12 07:27 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
