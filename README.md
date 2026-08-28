@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-08-27 ~ 2026-08-28 · 업데이트 2026-08-28 10:05 KST
+> 보고 기간: 2026-08-28 ~ 2026-08-29 · 업데이트 2026-08-29 07:24 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 ### 비공개 활동
 
-이번 기간에는 비공개 저장소 활동이 없습니다.
+최근 보고 기간 동안 1개의 비공개 저장소에서 활동했습니다.
+
+**집계:** 커밋 3건 · 생성한 풀 리퀘스트 1건 · 활동한 날 1건
 
 <sub>GitHub Activity Reporter가 자동으로 생성한 요약입니다.</sub>
 
