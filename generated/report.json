@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T22:22:35.823942+00:00",
-  "periodStart": "2026-08-30T22:22:32.3540255+00:00",
-  "periodEnd": "2026-08-31T22:22:32.3540255+00:00",
+  "generatedAt": "2026-09-01T22:21:50.8290205+00:00",
+  "periodStart": "2026-08-31T22:21:27.72761+00:00",
+  "periodEnd": "2026-09-01T22:21:27.72761+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 0,
+      "commits": 29,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,19 +16,42 @@
       "releases": 0
     },
     "narrative": {
-      "highlights": []
+      "headline": "이번 기간의 주요 작업: 자동화와 워크플로 구성을 손봤습니다.",
+      "highlights": [
+        "Odien4180/Private-Wiki: 자동화와 워크플로 구성을 손봤습니다."
+      ]
     },
-    "repositories": []
+    "repositories": [
+      {
+        "name": "Odien4180/Private-Wiki",
+        "url": "https://github.com/Odien4180/Private-Wiki",
+        "description": "개인 위키 작성용 에이전트 스킬",
+        "language": "C#",
+        "topics": [],
+        "summary": "자동화와 워크플로 구성을 손봤습니다.",
+        "metrics": {
+          "commits": 29,
+          "pullRequestsOpened": 0,
+          "pullRequestsMerged": 0,
+          "pullRequestsClosed": 0,
+          "issuesOpened": 0,
+          "issuesClosed": 0,
+          "reviews": 0,
+          "releases": 0
+        },
+        "events": []
+      }
+    ]
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 2,
-    "commits": 3,
-    "pullRequestsOpened": 0,
+    "activeRepositories": 1,
+    "commits": 24,
+    "pullRequestsOpened": 2,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "activeDays": 1,
-    "lastActivityAt": "2026-08-31T15:33:01+00:00"
+    "lastActivityAt": "2026-09-01T14:54:02+00:00"
   }
 }
