@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T05:34:20.0846601+00:00",
-  "periodStart": "2026-09-01T05:34:06.3649489+00:00",
-  "periodEnd": "2026-09-02T05:34:06.3649489+00:00",
+  "generatedAt": "2026-09-02T22:22:22.8511225+00:00",
+  "periodStart": "2026-09-01T22:22:20.2045536+00:00",
+  "periodEnd": "2026-09-02T22:22:20.2045536+00:00",
   "user": "Odien4180",
   "publicActivity": {
-    "activeRepositoryCount": 1,
+    "activeRepositoryCount": 0,
     "metrics": {
-      "CommitCount": 30,
+      "CommitCount": 0,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,32 +14,25 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 30
+      "TotalCount": 0
     },
     "narrative": {
-      "Headline": "\uD504\uB85C\uC81D\uD2B8 \uC704\uD0A4 \uC5D0\uC774\uC804\uD2B8 \uC2A4\uCE90\uD3F4\uB529\uACFC \uBB38\uC11C \uC0DD\uC131\u00B7\uAC80\uC99D, \uC815\uC801 \uC704\uD0A4 \uC0AC\uC774\uD2B8 \uBC0F CLI \uBCF4\uAC15",
-      "Highlights": [
-        "\uD504\uB85C\uC81D\uD2B8 \uC704\uD0A4 \uC5D0\uC774\uC804\uD2B8\uC758 \uBD84\uC11D \uBC94\uC704\uC640 deterministic core engine\uC744 \uC7A1\uACE0 \uCD08\uAE30 \uACC4\uD68D\uACFC \uBCD1\uD569 \uC791\uC5C5\uC744 \uC815\uB9AC\uD588\uB2E4.",
-        "\uBB38\uC11C \uC0DD\uC131 \uD750\uB984, \uD15C\uD50C\uB9BF \uAC80\uC99D, \uC798\uBABB\uB41C \uBE14\uB85D \uCC98\uB9AC, \uBE4C\uB4DC \uC624\uB958 \uC218\uC815\uC73C\uB85C \uC704\uD0A4 \uBB38\uC11C \uD30C\uC774\uD504\uB77C\uC778\uC744 \uC548\uC815\uD654\uD588\uB2E4.",
-        "\uC815\uC801 \uC704\uD0A4 \uC0AC\uC774\uD2B8, \uBB38\uC11C \uB124\uBE44\uAC8C\uC774\uC158, \uC99D\uBD84 \uC5C5\uB370\uC774\uD2B8, Unity \uD504\uB85C\uC81D\uD2B8 \uBD84\uC11D\uC744 \uB354\uD574 \uCF58\uD150\uCE20 \uAD6C\uC131 \uAE30\uBC18\uC744 \uB113\uD614\uB2E4.",
-        "validate CLI, \uC804\uC5ED \uC124\uCE58 \uBB38\uC11C, skill \uD328\uD0A4\uC9D5 \uBA54\uD0C0\uB370\uC774\uD130, \uAC80\uC99D \uCEE4\uBC84\uB9AC\uC9C0\uC640 \uB9AC\uBDF0 \uD53C\uB4DC\uBC31 \uBC18\uC601\uC73C\uB85C \uC0AC\uC6A9\uC131\uACFC \uBC30\uD3EC\uC131\uC744 \uB2E4\uB4EC\uC5C8\uB2E4."
-      ]
+      "Highlights": []
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 1,
-    "CommitCount": 11,
-    "PullRequestOpenedCount": 1,
+    "ActiveRepositoryCount": 0,
+    "CommitCount": 0,
+    "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
     "IssueOpenedCount": 0,
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 1,
-    "LastActivityAt": "2026-09-01T14:54:02+00:00",
-    "TotalEventCount": 12,
-    "HasActivity": true
+    "ActiveDayCount": 0,
+    "TotalEventCount": 0,
+    "HasActivity": false
   },
   "timeZone": "Asia/Seoul"
 }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T05:34:20.0846601+00:00",
-  "periodStart": "2026-09-01T05:34:06.3649489+00:00",
-  "periodEnd": "2026-09-02T05:34:06.3649489+00:00",
+  "generatedAt": "2026-09-02T22:22:22.8511225+00:00",
+  "periodStart": "2026-09-01T22:22:20.2045536+00:00",
+  "periodEnd": "2026-09-02T22:22:20.2045536+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 30,
+      "commits": 0,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,45 +16,18 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "프로젝트 위키 에이전트 스캐폴딩과 문서 생성·검증, 정적 위키 사이트 및 CLI 보강",
-      "highlights": [
-        "프로젝트 위키 에이전트의 분석 범위와 deterministic core engine을 잡고 초기 계획과 병합 작업을 정리했다.",
-        "문서 생성 흐름, 템플릿 검증, 잘못된 블록 처리, 빌드 오류 수정으로 위키 문서 파이프라인을 안정화했다.",
-        "정적 위키 사이트, 문서 네비게이션, 증분 업데이트, Unity 프로젝트 분석을 더해 콘텐츠 구성 기반을 넓혔다.",
-        "validate CLI, 전역 설치 문서, skill 패키징 메타데이터, 검증 커버리지와 리뷰 피드백 반영으로 사용성과 배포성을 다듬었다."
-      ]
+      "highlights": []
     },
-    "repositories": [
-      {
-        "name": "Odien4180/Private-Wiki",
-        "url": "https://github.com/Odien4180/Private-Wiki",
-        "description": "개인 위키 작성용 에이전트 스킬",
-        "language": "C#",
-        "topics": [],
-        "summary": "프로젝트 위키 에이전트 스캐폴딩에서 출발해 문서 생성·템플릿 검증·블록 파싱 안정화와 정적 위키 사이트, validate CLI, 전역 설치/패키징 문서까지 묶어 배포 가능한 위키 작성 흐름을 다듬었다.",
-        "metrics": {
-          "commits": 30,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 0,
-          "releases": 0
-        },
-        "events": []
-      }
-    ]
+    "repositories": []
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 1,
-    "commits": 11,
-    "pullRequestsOpened": 1,
+    "activeRepositories": 0,
+    "commits": 0,
+    "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
-    "activeDays": 1,
-    "lastActivityAt": "2026-09-01T14:54:02+00:00"
+    "activeDays": 0
   }
 }
