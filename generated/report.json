@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T22:20:41.3343555+00:00",
-  "periodStart": "2026-09-05T22:20:39.640714+00:00",
-  "periodEnd": "2026-09-06T22:20:39.640714+00:00",
+  "generatedAt": "2026-09-07T01:07:39.3755701+00:00",
+  "periodStart": "2026-09-06T01:07:25.7995869+00:00",
+  "periodEnd": "2026-09-07T01:07:25.7995869+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 0,
+      "commits": 2,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,9 +16,33 @@
       "releases": 0
     },
     "narrative": {
-      "highlights": []
+      "headline": "보고 기간 창 타이밍 개선 및 비공개 활동 리포팅 통합",
+      "highlights": [
+        "일일 실행 시 UTC 날짜 경계 이전 이벤트 처리로 아침 활동 누락 문제 해결",
+        "비공개 저장소 활동 리포팅 기능 병합"
+      ]
     },
-    "repositories": []
+    "repositories": [
+      {
+        "name": "Odien4180/Github-activity-reporter",
+        "url": "https://github.com/Odien4180/Github-activity-reporter",
+        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
+        "language": "C#",
+        "topics": [],
+        "summary": "GitHub 활동 리포팅 도구의 보고 기간 윈도우 처리 로직을 개선하여 일일 스케줄 실행에서 아침 활동이 누락되는 문제를 해결했고, 비공개 활동 리포팅 기능을 통합했습니다.",
+        "metrics": {
+          "commits": 2,
+          "pullRequestsOpened": 0,
+          "pullRequestsMerged": 0,
+          "pullRequestsClosed": 0,
+          "issuesOpened": 0,
+          "issuesClosed": 0,
+          "reviews": 0,
+          "releases": 0
+        },
+        "events": []
+      }
+    ]
   },
   "private": {
     "mode": "aggregate-only",
