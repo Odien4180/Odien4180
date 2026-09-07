@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T01:07:39.3755701+00:00",
-  "periodStart": "2026-09-06T01:07:25.7995869+00:00",
-  "periodEnd": "2026-09-07T01:07:25.7995869+00:00",
+  "generatedAt": "2026-09-07T22:22:09.5103054+00:00",
+  "periodStart": "2026-09-06T22:21:55.5630154+00:00",
+  "periodEnd": "2026-09-07T22:21:55.5630154+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
@@ -16,10 +16,10 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "보고 기간 창 타이밍 개선 및 비공개 활동 리포팅 통합",
+      "headline": "보고 기간 경계 보정으로 오전 활동 누락을 막고 private activity 수정 PR을 병합",
       "highlights": [
-        "일일 실행 시 UTC 날짜 경계 이전 이벤트 처리로 아침 활동 누락 문제 해결",
-        "비공개 저장소 활동 리포팅 기능 병합"
+        "같은 UTC 날짜의 이벤트를 보고 기간 밖으로 제외하지 않도록 조정해, 일일 실행에서 오전 활동이 빠지지 않게 했다.",
+        "private activity 관련 이슈를 다룬 PR #22를 병합해 리포트 처리 흐름을 정리했다."
       ]
     },
     "repositories": [
@@ -29,7 +29,7 @@
         "description": "사용자 깃 활동 리포팅 환경 자동 구성",
         "language": "C#",
         "topics": [],
-        "summary": "GitHub 활동 리포팅 도구의 보고 기간 윈도우 처리 로직을 개선하여 일일 스케줄 실행에서 아침 활동이 누락되는 문제를 해결했고, 비공개 활동 리포팅 기능을 통합했습니다.",
+        "summary": "보고 기간 경계 처리와 private activity 관련 수정이 중심이었고, 같은 UTC 날짜의 이벤트 누락을 막는 보정이 추가된 뒤 관련 PR #22가 병합됐다.",
         "metrics": {
           "commits": 2,
           "pullRequestsOpened": 0,
@@ -46,12 +46,13 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 0,
-    "commits": 0,
+    "activeRepositories": 1,
+    "commits": 4,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
-    "activeDays": 0
+    "activeDays": 1,
+    "lastActivityAt": "2026-09-07T16:14:53+00:00"
   }
 }

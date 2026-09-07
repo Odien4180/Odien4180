@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T01:07:39.3755701+00:00",
-  "periodStart": "2026-09-06T01:07:25.7995869+00:00",
-  "periodEnd": "2026-09-07T01:07:25.7995869+00:00",
+  "generatedAt": "2026-09-07T22:22:09.5103054+00:00",
+  "periodStart": "2026-09-06T22:21:55.5630154+00:00",
+  "periodEnd": "2026-09-07T22:21:55.5630154+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 1,
@@ -17,16 +17,16 @@
       "TotalCount": 2
     },
     "narrative": {
-      "Headline": "\uBCF4\uACE0 \uAE30\uAC04 \uCC3D \uD0C0\uC774\uBC0D \uAC1C\uC120 \uBC0F \uBE44\uACF5\uAC1C \uD65C\uB3D9 \uB9AC\uD3EC\uD305 \uD1B5\uD569",
+      "Headline": "\uBCF4\uACE0 \uAE30\uAC04 \uACBD\uACC4 \uBCF4\uC815\uC73C\uB85C \uC624\uC804 \uD65C\uB3D9 \uB204\uB77D\uC744 \uB9C9\uACE0 private activity \uC218\uC815 PR\uC744 \uBCD1\uD569",
       "Highlights": [
-        "\uC77C\uC77C \uC2E4\uD589 \uC2DC UTC \uB0A0\uC9DC \uACBD\uACC4 \uC774\uC804 \uC774\uBCA4\uD2B8 \uCC98\uB9AC\uB85C \uC544\uCE68 \uD65C\uB3D9 \uB204\uB77D \uBB38\uC81C \uD574\uACB0",
-        "\uBE44\uACF5\uAC1C \uC800\uC7A5\uC18C \uD65C\uB3D9 \uB9AC\uD3EC\uD305 \uAE30\uB2A5 \uBCD1\uD569"
+        "\uAC19\uC740 UTC \uB0A0\uC9DC\uC758 \uC774\uBCA4\uD2B8\uB97C \uBCF4\uACE0 \uAE30\uAC04 \uBC16\uC73C\uB85C \uC81C\uC678\uD558\uC9C0 \uC54A\uB3C4\uB85D \uC870\uC815\uD574, \uC77C\uC77C \uC2E4\uD589\uC5D0\uC11C \uC624\uC804 \uD65C\uB3D9\uC774 \uBE60\uC9C0\uC9C0 \uC54A\uAC8C \uD588\uB2E4.",
+        "private activity \uAD00\uB828 \uC774\uC288\uB97C \uB2E4\uB8EC PR #22\uB97C \uBCD1\uD569\uD574 \uB9AC\uD3EC\uD2B8 \uCC98\uB9AC \uD750\uB984\uC744 \uC815\uB9AC\uD588\uB2E4."
       ]
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 0,
-    "CommitCount": 0,
+    "ActiveRepositoryCount": 1,
+    "CommitCount": 4,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -34,9 +34,10 @@
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 0,
-    "TotalEventCount": 0,
-    "HasActivity": false
+    "ActiveDayCount": 1,
+    "LastActivityAt": "2026-09-07T16:14:53+00:00",
+    "TotalEventCount": 4,
+    "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
 }
