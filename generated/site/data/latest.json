@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-07T22:22:09.5103054+00:00",
-  "periodStart": "2026-09-06T22:21:55.5630154+00:00",
-  "periodEnd": "2026-09-07T22:21:55.5630154+00:00",
+  "generatedAt": "2026-09-08T22:21:59.5224919+00:00",
+  "periodStart": "2026-09-07T22:21:47.9602353+00:00",
+  "periodEnd": "2026-09-08T22:21:47.9602353+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 1,
     "metrics": {
-      "CommitCount": 2,
+      "CommitCount": 1,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,19 +14,18 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 2
+      "TotalCount": 1
     },
     "narrative": {
-      "Headline": "\uBCF4\uACE0 \uAE30\uAC04 \uACBD\uACC4 \uBCF4\uC815\uC73C\uB85C \uC624\uC804 \uD65C\uB3D9 \uB204\uB77D\uC744 \uB9C9\uACE0 private activity \uC218\uC815 PR\uC744 \uBCD1\uD569",
+      "Headline": "C# \uAE30\uBC18 GitHub \uD65C\uB3D9 \uB9AC\uD3EC\uD305 \uD658\uACBD \uC790\uB3D9 \uAD6C\uC131 \uC791\uC5C5",
       "Highlights": [
-        "\uAC19\uC740 UTC \uB0A0\uC9DC\uC758 \uC774\uBCA4\uD2B8\uB97C \uBCF4\uACE0 \uAE30\uAC04 \uBC16\uC73C\uB85C \uC81C\uC678\uD558\uC9C0 \uC54A\uB3C4\uB85D \uC870\uC815\uD574, \uC77C\uC77C \uC2E4\uD589\uC5D0\uC11C \uC624\uC804 \uD65C\uB3D9\uC774 \uBE60\uC9C0\uC9C0 \uC54A\uAC8C \uD588\uB2E4.",
-        "private activity \uAD00\uB828 \uC774\uC288\uB97C \uB2E4\uB8EC PR #22\uB97C \uBCD1\uD569\uD574 \uB9AC\uD3EC\uD2B8 \uCC98\uB9AC \uD750\uB984\uC744 \uC815\uB9AC\uD588\uB2E4."
+        "C# \uD504\uB85C\uC81D\uD2B8\uC5D0\uC11C \uC0AC\uC6A9\uC790 GitHub \uD65C\uB3D9 \uB9AC\uD3EC\uD305 \uD658\uACBD\uC744 \uC790\uB3D9 \uAD6C\uC131\uD558\uB294 \uC791\uC5C5\uC774 \uC9C4\uD589\uB410\uB2E4."
       ]
     }
   },
   "privateActivity": {
     "ActiveRepositoryCount": 1,
-    "CommitCount": 4,
+    "CommitCount": 5,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -34,9 +33,9 @@
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 1,
-    "LastActivityAt": "2026-09-07T16:14:53+00:00",
-    "TotalEventCount": 4,
+    "ActiveDayCount": 2,
+    "LastActivityAt": "2026-09-08T17:13:02+00:00",
+    "TotalEventCount": 5,
     "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
