@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T22:21:59.5224919+00:00",
-  "periodStart": "2026-09-07T22:21:47.9602353+00:00",
-  "periodEnd": "2026-09-08T22:21:47.9602353+00:00",
+  "generatedAt": "2026-09-09T22:21:13.6368889+00:00",
+  "periodStart": "2026-09-08T22:21:09.664836+00:00",
+  "periodEnd": "2026-09-09T22:21:09.664836+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 1,
+      "commits": 0,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,42 +16,19 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "C# 기반 GitHub 활동 리포팅 환경 자동 구성 작업",
-      "highlights": [
-        "C# 프로젝트에서 사용자 GitHub 활동 리포팅 환경을 자동 구성하는 작업이 진행됐다."
-      ]
+      "highlights": []
     },
-    "repositories": [
-      {
-        "name": "Odien4180/Github-activity-reporter",
-        "url": "https://github.com/Odien4180/Github-activity-reporter",
-        "description": "사용자 깃 활동 리포팅 환경 자동 구성",
-        "language": "C#",
-        "topics": [],
-        "summary": "사용자 GitHub 활동 리포팅 환경 자동 구성을 위한 C# 프로젝트에서 단일 커밋이 있었다. 세부 변경 정보는 제공되지 않았다.",
-        "metrics": {
-          "commits": 1,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 0,
-          "releases": 0
-        },
-        "events": []
-      }
-    ]
+    "repositories": []
   },
   "private": {
     "mode": "aggregate-only",
     "activeRepositories": 1,
-    "commits": 5,
+    "commits": 17,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "activeDays": 2,
-    "lastActivityAt": "2026-09-08T17:13:02+00:00"
+    "lastActivityAt": "2026-09-09T16:19:16+00:00"
   }
 }

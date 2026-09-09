@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-08T22:21:59.5224919+00:00",
-  "periodStart": "2026-09-07T22:21:47.9602353+00:00",
-  "periodEnd": "2026-09-08T22:21:47.9602353+00:00",
+  "generatedAt": "2026-09-09T22:21:13.6368889+00:00",
+  "periodStart": "2026-09-08T22:21:09.664836+00:00",
+  "periodEnd": "2026-09-09T22:21:09.664836+00:00",
   "user": "Odien4180",
   "publicActivity": {
-    "activeRepositoryCount": 1,
+    "activeRepositoryCount": 0,
     "metrics": {
-      "CommitCount": 1,
+      "CommitCount": 0,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,18 +14,15 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 1
+      "TotalCount": 0
     },
     "narrative": {
-      "Headline": "C# \uAE30\uBC18 GitHub \uD65C\uB3D9 \uB9AC\uD3EC\uD305 \uD658\uACBD \uC790\uB3D9 \uAD6C\uC131 \uC791\uC5C5",
-      "Highlights": [
-        "C# \uD504\uB85C\uC81D\uD2B8\uC5D0\uC11C \uC0AC\uC6A9\uC790 GitHub \uD65C\uB3D9 \uB9AC\uD3EC\uD305 \uD658\uACBD\uC744 \uC790\uB3D9 \uAD6C\uC131\uD558\uB294 \uC791\uC5C5\uC774 \uC9C4\uD589\uB410\uB2E4."
-      ]
+      "Highlights": []
     }
   },
   "privateActivity": {
     "ActiveRepositoryCount": 1,
-    "CommitCount": 5,
+    "CommitCount": 17,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -34,8 +31,8 @@
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
     "ActiveDayCount": 2,
-    "LastActivityAt": "2026-09-08T17:13:02+00:00",
-    "TotalEventCount": 5,
+    "LastActivityAt": "2026-09-09T16:19:16+00:00",
+    "TotalEventCount": 17,
     "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
