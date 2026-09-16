@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-15T22:22:56.8022302+00:00",
-  "periodStart": "2026-09-14T22:22:53.8882694+00:00",
-  "periodEnd": "2026-09-15T22:22:53.8882694+00:00",
+  "generatedAt": "2026-09-16T22:22:20.3077837+00:00",
+  "periodStart": "2026-09-15T22:22:03.3225707+00:00",
+  "periodEnd": "2026-09-16T22:22:03.3225707+00:00",
   "user": "Odien4180",
   "publicActivity": {
-    "activeRepositoryCount": 0,
+    "activeRepositoryCount": 1,
     "metrics": {
-      "CommitCount": 0,
+      "CommitCount": 4,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,15 +14,20 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 0
+      "TotalCount": 4
     },
     "narrative": {
-      "Highlights": []
+      "Headline": "NovelAI \uC2A4\uD0AC \uB3C4\uAD6C\uC758 \uC124\uC815 \uAD6C\uC870 \uBC0F \uB370\uC774\uD130 \uCC98\uB9AC \uC815\uC81C",
+      "Highlights": [
+        "\uC2A4\uD0A4\uB9C8 \uAC80\uC99D \uAC15\uD654\uB85C \uB370\uC774\uD130 \uAD6C\uC870 \uC548\uC815\uC131 \uAC1C\uC120",
+        "\uBAA8\uB378 \uCD08\uAE30\uAC12 \uC870\uC815\uC73C\uB85C \uAE30\uBCF8 \uB3D9\uC791 \uCD5C\uC801\uD654",
+        "\uD1A0\uD070 \uC800\uC7A5\uC18C \uC704\uCE58 \uC7AC\uAD6C\uC131\uC73C\uB85C \uBCF4\uC548 \uBC0F \uAD00\uB9AC \uAC1C\uC120"
+      ]
     }
   },
   "privateActivity": {
     "ActiveRepositoryCount": 1,
-    "CommitCount": 2,
+    "CommitCount": 3,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -31,8 +36,8 @@
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
     "ActiveDayCount": 1,
-    "LastActivityAt": "2026-09-15T17:31:16+00:00",
-    "TotalEventCount": 2,
+    "LastActivityAt": "2026-09-15T22:22:03.3225707+00:00",
+    "TotalEventCount": 3,
     "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
