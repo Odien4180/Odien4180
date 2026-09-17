@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T22:22:20.3077837+00:00",
-  "periodStart": "2026-09-15T22:22:03.3225707+00:00",
-  "periodEnd": "2026-09-16T22:22:03.3225707+00:00",
+  "generatedAt": "2026-09-17T22:22:05.9353944+00:00",
+  "periodStart": "2026-09-16T22:21:54.094332+00:00",
+  "periodEnd": "2026-09-17T22:21:54.094332+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
@@ -16,11 +16,10 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "NovelAI 스킬 도구의 설정 구조 및 데이터 처리 정제",
+      "headline": "개인용 NovelAI Python 스킬을 정리한 커밋 중심 변경",
       "highlights": [
-        "스키마 검증 강화로 데이터 구조 안정성 개선",
-        "모델 초기값 조정으로 기본 동작 최적화",
-        "토큰 저장소 위치 재구성으로 보안 및 관리 개선"
+        "개인용 NovelAI 사용 스킬 저장소에서 Python 기반 구성을 4건의 커밋으로 다듬었다.",
+        "공개된 활동은 커밋만 있으며, PR·이슈·릴리스 없이 코드 정비에 집중했다."
       ]
     },
     "repositories": [
@@ -30,7 +29,7 @@
         "description": "novelai 사용하기 위한 skill. 개인 사용 목적",
         "language": "Python",
         "topics": [],
-        "summary": "NovelAI 통합을 위한 개인 스킬 도구에서 설정 구조와 데이터 처리를 정제했습니다. 스키마 검증을 강화하고 모델 초기값을 조정했으며 토큰 저장 방식을 개선했습니다.",
+        "summary": "개인용 NovelAI 사용 스킬 저장소에서 Python 코드를 4건의 커밋으로 정리해 사용 목적에 맞게 다듬었다.",
         "metrics": {
           "commits": 4,
           "pullRequestsOpened": 0,
@@ -47,13 +46,12 @@
   },
   "private": {
     "mode": "aggregate-only",
-    "activeRepositories": 1,
-    "commits": 3,
+    "activeRepositories": 0,
+    "commits": 0,
     "pullRequestsOpened": 0,
     "pullRequestsMerged": 0,
     "issuesClosed": 0,
     "reviews": 0,
-    "activeDays": 1,
-    "lastActivityAt": "2026-09-15T22:22:03.3225707+00:00"
+    "activeDays": 0
   }
 }
