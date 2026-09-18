@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T22:22:05.9353944+00:00",
-  "periodStart": "2026-09-16T22:21:54.094332+00:00",
-  "periodEnd": "2026-09-17T22:21:54.094332+00:00",
+  "generatedAt": "2026-09-18T22:21:52.396591+00:00",
+  "periodStart": "2026-09-17T22:21:50.9069279+00:00",
+  "periodEnd": "2026-09-18T22:21:50.9069279+00:00",
   "user": "Odien4180",
   "public": {
     "totals": {
-      "commits": 4,
+      "commits": 0,
       "pullRequestsOpened": 0,
       "pullRequestsMerged": 0,
       "pullRequestsClosed": 0,
@@ -16,33 +16,9 @@
       "releases": 0
     },
     "narrative": {
-      "headline": "개인용 NovelAI Python 스킬을 정리한 커밋 중심 변경",
-      "highlights": [
-        "개인용 NovelAI 사용 스킬 저장소에서 Python 기반 구성을 4건의 커밋으로 다듬었다.",
-        "공개된 활동은 커밋만 있으며, PR·이슈·릴리스 없이 코드 정비에 집중했다."
-      ]
+      "highlights": []
     },
-    "repositories": [
-      {
-        "name": "Odien4180/Nai-Skill",
-        "url": "https://github.com/Odien4180/Nai-Skill",
-        "description": "novelai 사용하기 위한 skill. 개인 사용 목적",
-        "language": "Python",
-        "topics": [],
-        "summary": "개인용 NovelAI 사용 스킬 저장소에서 Python 코드를 4건의 커밋으로 정리해 사용 목적에 맞게 다듬었다.",
-        "metrics": {
-          "commits": 4,
-          "pullRequestsOpened": 0,
-          "pullRequestsMerged": 0,
-          "pullRequestsClosed": 0,
-          "issuesOpened": 0,
-          "issuesClosed": 0,
-          "reviews": 0,
-          "releases": 0
-        },
-        "events": []
-      }
-    ]
+    "repositories": []
   },
   "private": {
     "mode": "aggregate-only",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-17T22:22:05.9353944+00:00",
-  "periodStart": "2026-09-16T22:21:54.094332+00:00",
-  "periodEnd": "2026-09-17T22:21:54.094332+00:00",
+  "generatedAt": "2026-09-18T22:21:52.396591+00:00",
+  "periodStart": "2026-09-17T22:21:50.9069279+00:00",
+  "periodEnd": "2026-09-18T22:21:50.9069279+00:00",
   "user": "Odien4180",
   "publicActivity": {
-    "activeRepositoryCount": 1,
+    "activeRepositoryCount": 0,
     "metrics": {
-      "CommitCount": 4,
+      "CommitCount": 0,
       "PullRequestOpenedCount": 0,
       "PullRequestMergedCount": 0,
       "PullRequestClosedCount": 0,
@@ -14,14 +14,10 @@
       "IssueClosedCount": 0,
       "ReviewSubmittedCount": 0,
       "ReleasePublishedCount": 0,
-      "TotalCount": 4
+      "TotalCount": 0
     },
     "narrative": {
-      "Headline": "\uAC1C\uC778\uC6A9 NovelAI Python \uC2A4\uD0AC\uC744 \uC815\uB9AC\uD55C \uCEE4\uBC0B \uC911\uC2EC \uBCC0\uACBD",
-      "Highlights": [
-        "\uAC1C\uC778\uC6A9 NovelAI \uC0AC\uC6A9 \uC2A4\uD0AC \uC800\uC7A5\uC18C\uC5D0\uC11C Python \uAE30\uBC18 \uAD6C\uC131\uC744 4\uAC74\uC758 \uCEE4\uBC0B\uC73C\uB85C \uB2E4\uB4EC\uC5C8\uB2E4.",
-        "\uACF5\uAC1C\uB41C \uD65C\uB3D9\uC740 \uCEE4\uBC0B\uB9CC \uC788\uC73C\uBA70, PR\u00B7\uC774\uC288\u00B7\uB9B4\uB9AC\uC2A4 \uC5C6\uC774 \uCF54\uB4DC \uC815\uBE44\uC5D0 \uC9D1\uC911\uD588\uB2E4."
-      ]
+      "Highlights": []
     }
   },
   "privateActivity": {
