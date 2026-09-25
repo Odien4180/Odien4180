@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Development Pulse
 
-> 보고 기간: 2026-09-24 ~ 2026-09-25 · 업데이트 2026-09-25 07:23 KST
+> 보고 기간: 2026-09-25 ~ 2026-09-26 · 업데이트 2026-09-26 07:23 KST
 
 <p align="center">
   <img src="./generated/activity-dashboard.svg" alt="개발 활동 대시보드" width="100%" />
