@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T22:20:01.7907152+00:00",
-  "periodStart": "2026-11-10T22:19:59.5888197+00:00",
-  "periodEnd": "2026-11-11T22:19:59.5888197+00:00",
+  "generatedAt": "2026-11-12T22:20:22.2290287+00:00",
+  "periodStart": "2026-11-11T22:20:20.0970956+00:00",
+  "periodEnd": "2026-11-12T22:20:20.0970956+00:00",
   "user": "Odien4180",
   "publicActivity": {
     "activeRepositoryCount": 0,
@@ -21,8 +21,8 @@
     }
   },
   "privateActivity": {
-    "ActiveRepositoryCount": 0,
-    "CommitCount": 0,
+    "ActiveRepositoryCount": 1,
+    "CommitCount": 2,
     "PullRequestOpenedCount": 0,
     "PullRequestMergedCount": 0,
     "PullRequestClosedCount": 0,
@@ -30,9 +30,10 @@
     "IssueClosedCount": 0,
     "ReviewSubmittedCount": 0,
     "ReleasePublishedCount": 0,
-    "ActiveDayCount": 0,
-    "TotalEventCount": 0,
-    "HasActivity": false
+    "ActiveDayCount": 1,
+    "LastActivityAt": "2026-11-11T22:20:20.0970956+00:00",
+    "TotalEventCount": 2,
+    "HasActivity": true
   },
   "timeZone": "Asia/Seoul"
 }
